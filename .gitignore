@@ -55,3 +55,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+output/
+pelican-plugins
+fabfile.py
+Makefile
+develop_server.sh
+keybase.txt
