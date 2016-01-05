@@ -9,7 +9,7 @@ cd $_
 source bin/activated
 git clone https://github.com/foxmask/foxmask.trigger-happy.eu
 git clone https://github.com/duilio/pelican-octopress-theme.git
-git clone https://github.com/getpelican/pelican-plugins
+git clone --recursive https://github.com/getpelican/pelican-plugins
 mv foxmask.trigger-happy.eu website
 pip install -r requirements.txt
 pelican-theme -s $PWD/pelican-octopress-theme
