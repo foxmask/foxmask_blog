@@ -57,8 +57,4 @@ docs/_build/
 target/
 
 output/
-pelican-plugins
-fabfile.py
-Makefile
-develop_server.sh
 keybase.txt

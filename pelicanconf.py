@@ -9,7 +9,8 @@ SITESUBTITLE = 'La passion de la liberté'
 SITEURL = 'http://foxmask.trigger-happy.eu'
 TIMEZONE = 'Europe/Paris'
 
-THEME = 'pelican-octopress-theme'
+THEME = '../pelican-octopress-theme'
+
 
 PATH = 'content'
 
@@ -31,8 +32,6 @@ ARTICLE_SAVE_AS = 'post/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 # Blogroll
 LINKS = (('Sam&Max', 'http://sametmax.com'),
          ('Trigger Happy', 'http://trigger-happy.eu'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),
 )
 
 # Social widget
@@ -51,10 +50,7 @@ EXTRA_PATH_METADATA = {
 #RELATIVE_URLS = True
 
 PLUGIN_PATHS = ['../pelican-plugins']
-#PLUGINS = ['tag_cloud', 'read_more_link', 'related_posts',
-#           'liquid_tags.img', 'liquid_tags.video', 'liquid_tags.youtube',
-#           'liquid_tags.vimeo', 'liquid_tags.include_code']
-PLUGINS = ['related_posts', 'liquid_tags.img', 'liquid_tags.video', 
+PLUGINS = ['github_activity', 'related_posts', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo', 'liquid_tags.include_code',
            'neighbors', 'github_activity']
 
