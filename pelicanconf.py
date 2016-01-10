@@ -25,7 +25,7 @@ AUTHOR_FEED_RSS = None
 
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
-# theme bootstrap
+# theme bootstrap https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
 BANNER_SUBTITLE = 'La passion de la liberté'
 BANNER = '/static/banner.jpg'
 DISPLAY_TAGS_ON_SIDEBAR = True
@@ -42,6 +42,12 @@ DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_FEEDS_ON_MENU = True
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
+RECENT_POST_COUNT = 5
+
+TWITTER_CARDS = True
+TWITTER_USERNAME = 'triggerhappyeu'
+TWITTER_WIDGET_ID = 669143142793412608
 
 
 # Standard
@@ -52,14 +58,17 @@ ARTICLE_SAVE_AS = 'post/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Blogroll
 LINKS = (('Sam&Max', 'http://sametmax.com'),
+         ('Sam&Max Community news', 'http://smcomm.trigger-happy.eu/'),
+         ('Indexerror - a Q&R Python', 'http://indexerror.net/'),
          ('Trigger Happy', 'http://trigger-happy.eu'),
 )
 
 # Social widget
 # SOCIAL = (('@foxmask GitHub', 'https://github.com/foxmask'),)
-SOCIAL = (('RSS', 'http://foxmask.trigger-happy.eu/feeds/all.rss.xml'),)
+SOCIAL = (('RSS', 'http://foxmask.trigger-happy.eu/feeds/all.rss.xml'),
+          ('Twitter', 'https://twitter.com/triggerhappyeu'),)
 
-DEFAULT_PAGINATION = 15
+DEFAULT_PAGINATION = 10
 
 STATIC_PATHS = ['static']
 
