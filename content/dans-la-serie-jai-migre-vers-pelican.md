@@ -3,6 +3,7 @@ Date: 2016-01-05 12:00:00
 Category: Techno
 Author: foxmask
 Slug: dans-la-serie-jai-migre-vers-pelican
+Tags: python, pelican
 Status: published
 Summary: Dans cet article, je vais aborder comment je créé des billets et les publie automatiquement sans plus lever le petit doigt.
 
