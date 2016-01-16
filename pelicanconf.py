@@ -3,10 +3,9 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'FoxMaSk'
-SITENAME = 'FoxMaSk - Le Free de la Passion'
+SITENAME = 'Le Free de la Passion'
 SITESUBTITLE = 'La passion de la liberté'
 
-AVATAR = '/static/cactus.png'
 SITEURL = 'http://foxmask.trigger-happy.eu'
 TIMEZONE = 'Europe/Paris'
 
@@ -18,10 +17,14 @@ PATH = 'content'
 # Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
+TAG_FEED_RSS = 'feeds/%s.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+TAG_FEED_ATOM = 'feeds/%s.atom.xml'
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+FEED_MAX_ITEMS = 10
 
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
@@ -49,12 +52,23 @@ TWITTER_CARDS = True
 TWITTER_USERNAME = 'triggerhappyeu'
 TWITTER_WIDGET_ID = 669143142793412608
 
+CUSTOM_LICENSE='Unless otherwise stated, all articles are published under the <a href="http://www.wtfpl.net/about/">WTFPL</a> license.'
+
+DIRECT_TEMPLATES = ('index', 'categories', 'tags', 'archives', 'search')
+TIPUE_SEARCH = True
+SEARCH_URL = 'search.html'
+
+AVATAR = '/static/cactus.png'
+
+ABOUT_ME = '<a href="/pages/a-propos">Passionné par les Logiciels Libres</a>'
 
 # Standard
 DEFAULT_CATEGORY = 'General'
 
 ARTICLE_URL = 'post/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'post/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+PAGE_URL = 'pages/{slug}'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 # Blogroll
 LINKS = (('Sam&Max', 'http://sametmax.com'),
@@ -66,8 +80,12 @@ FREE_PROJECT = True
 
 # Social widget
 # SOCIAL = (('@foxmask GitHub', 'https://github.com/foxmask'),)
-SOCIAL = (('RSS', 'http://foxmask.trigger-happy.eu/feeds/all.rss.xml'),
-          ('Twitter', 'https://twitter.com/triggerhappyeu'),)
+# SOCIAL = (('Twitter', 'https://twitter.com/triggerhappyeu'),)
+
+ATOM = (('ATOM Python', 'http://foxmask.trigger-happy.eu/feeds/python.atom.xml'),
+       ('ATOM Django', 'http://foxmask.trigger-happy.eu/feeds/django.atom.xml'),)
+RSS = (('RSS Python', 'http://foxmask.trigger-happy.eu/feeds/python.rss.xml'),
+       ('RSS Django', 'http://foxmask.trigger-happy.eu/feeds/django.rss.xml'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -84,7 +102,7 @@ EXTRA_PATH_METADATA = {
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['tag_cloud', 'github_activity', 'related_posts', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo', 'liquid_tags.include_code',
-           'neighbors', 'github_activity']
+           'neighbors', 'github_activity', 'tipue_search']
 
 # related_posts plugin - https://github.com/getpelican/pelican-plugins/tree/master/related_posts
 RELATED_POSTS_MAX = 5
