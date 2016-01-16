@@ -58,10 +58,11 @@ ARTICLE_SAVE_AS = 'post/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Blogroll
 LINKS = (('Sam&Max', 'http://sametmax.com'),
-         ('Sam&Max Community news', 'http://smcomm.trigger-happy.eu/'),
-         ('Indexerror - a Q&R Python', 'http://indexerror.net/'),
-         ('Trigger Happy', 'http://trigger-happy.eu'),
-)
+         ('S&M Community news', 'http://smcomm.trigger-happy.eu/'),
+         ('Indexerror Q&R Python', 'http://indexerror.net/'),
+         )
+
+FREE_PROJECT = True
 
 # Social widget
 # SOCIAL = (('@foxmask GitHub', 'https://github.com/foxmask'),)
