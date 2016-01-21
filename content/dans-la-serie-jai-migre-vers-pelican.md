@@ -50,7 +50,7 @@ L'astuce ici consiste à utiliser **keychain**, pour que le *git pull* ne reste 
 En effet, après l'installation de keychain, on lanche la commande
 
 ```shell
-keychain $HOME/.id_dsa
+keychain $HOME/.ssh/id_dsa
 ```
 
 ce qui produit
