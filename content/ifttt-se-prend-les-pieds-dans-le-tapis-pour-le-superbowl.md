@@ -1,9 +1,9 @@
-Title: IFTTT se prend les pieds dans le tapis pour le SuperBowl
+Title: IFTTT se prend les pieds dans le SuperBowl
 Date: 2016-02-03 10:10
 Author: foxmask
 Category: Techno
 Tags: ifttt, triggerhappy
-Slug: ifttt-se-prend-les-pieds-dans-le-tapis-pour-le-superbowl
+Slug: ifttt-se-prend-les-pieds-dans-le-superbowl
 Status: published
 
 
