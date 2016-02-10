@@ -1,4 +1,10 @@
-# PyCharm : raccourcis pour obtenir les comportements "habituels" comme SublimeText et FireFox
+Title: PyCharm : raccourcis pour obtenir les comportements "habituels" comme SublimeText et FireFox
+Date: 2016-02-10 21:30
+Author: FoxMaSk
+Category: Techno
+Tags: PyCharm
+Slug: pycharm-raccourcis-pour-obtenir-les-comportements-sublimetext-firefox
+Status: published
 
 Avec PyCharm : j'ai besoin de fermer des onglets ; les restaurer ; et naviguer entre eux. 
 Par défaut les raccourcis de l'éditeur qui m'interessent sont :
@@ -10,16 +16,19 @@ Par défaut les raccourcis de l'éditeur qui m'interessent sont :
 
 Donc pour ce faire on se rend dans le menu qui gere les raccourcis comme suit :
 
-*File > Settings > Keymap*
+`File > Settings > Keymap`
 
 
-faire une recherche par raccourci (en cliquant sur la loupe au dessus de la pyramide de carrés) et appuyer sur la combinaison de touches *ALT-DROITE*.
-le nom de l'action associée s'affiche, on double clique sur l'action pour editer le raccourci et on tape *CTRL-Page Down*. On répète l'action pour *ALT-GAUCHE* pour l'onglet précédent, et *CTRL-F4* par *CTRL-W* pour fermer l'onglet.
+Faire une recherche par raccourci (en cliquant sur la loupe au dessus de la pyramide de carrés) et appuyer sur la combinaison de touches `ALT-DROITE`.
 
-Pour finir, pour réouvrir un onglet fermé précédemment avec Firefox on fait CTRL-SHIFT-T. 
+Le nom de l'action associée s'affiche, on double clique sur l'action pour editer le raccourci et on tape `CTRL-Page Down`. 
 
-Pour trouver l'action qui permet cela, on fait une recherche de "close" pour retrouver "reopened closed tab" on double clique sur l'action, on talbe CTRL-SHIFT-T et hop 
+On répète l'action pour `ALT-GAUCHE` pour l'onglet précédent, et `CTRL-F4` par `CTRL-W` pour fermer l'onglet.
+
+Pour finir, pour réouvrir un onglet fermé précédemment avec Firefox on fait `CTRL-SHIFT-T`. 
+
+Pour trouver l'action qui permet cela, on fait une recherche de **close** pour retrouver **reopened closed tab** on double clique sur l'action, on tape `CTRL-SHIFT-T` et hop 
 
 Il se peut qu'en cherchant à affecter ces raccourcis, vous voyiez que vous allez écraser un raccourci déjà existant, à vous de voir ;)
 
-Un dernier truc, pour que CTRL-SHIFT-T, marche quand tous les onglets sont fermés, il faut au moins UN tab ouvert... Si vous etes sur la page vide d'où vous pouvez lire "Search Everywhere ...Drop files here from file manager" ; ca ne marchera pas.
+Un dernier truc, pour que `CTRL-SHIFT-T`, marche quand tous les onglets sont fermés, il faut au moins UN tab ouvert... Si vous etes sur la page vide d'où vous pouvez lire **Search Everywhere ...Drop files here from file manager** ; ca ne marchera pas.
