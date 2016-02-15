@@ -72,7 +72,7 @@ PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 # Blogroll
 LINKS = (('Sam&Max', 'http://sametmax.com'),
-         ('S&M Community news', 'http://smcomm.trigger-happy.eu/'),
+         ('S&M Community news', 'https://smcomm.trigger-happy.eu/'),
          ('Indexerror Q&R Python', 'http://indexerror.net/'),
          )
 
