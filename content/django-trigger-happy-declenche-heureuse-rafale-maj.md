@@ -9,10 +9,8 @@ Status: published
 Après quelques mois de tests et tergiversations, j'ai fini par me fendre
 d'une nouvelle version du projet "Trigger Happy" et de tous ses modules.
 
-Si vous découvrez tout juste le projet, follow ici [de quoi obtenir un
-aperçu](h/post/2013/05/27/django-trigger-happy/)
-([et en
-images](/post/2013/06/04/django-trigger-happy-un-ifttt-like-en-images/))
+Si vous découvrez tout juste le projet, follow ici [de quoi obtenir un aperçu](/post/2013/05/27/django-trigger-happy/)
+([et en images](/post/2013/06/04/django-trigger-happy-un-ifttt-like-en-images/))
 
 Voici la listes des nouveautés & améliorations produites.
 
@@ -101,9 +99,7 @@ Où trouver toute la clic ?
 ### A venir
 
 Qu'est-il prévu pour la suite ?  
-Un petit tour sur [la liste des
-tickets](https://github.com/foxmask/django-th/issues) & milestones vous
-en dira plus
+Un petit tour sur [la liste des tickets](https://github.com/foxmask/django-th/issues) & milestones vous en dira plus
 
 ### What's about you ?
 
