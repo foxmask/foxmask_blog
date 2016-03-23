@@ -1,4 +1,4 @@
-#!/usr/bin/en
+#!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
@@ -100,7 +100,7 @@ EXTRA_PATH_METADATA = {
 #RELATIVE_URLS = True
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['tag_cloud', 'github_activity', 'related_posts', 'liquid_tags.img', 'liquid_tags.video',
+PLUGINS = ['sitemap', 'pelican-page-order', 'tag_cloud', 'github_activity', 'related_posts', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo', 'liquid_tags.include_code',
            'neighbors', 'github_activity', 'tipue_search']
 
@@ -109,8 +109,10 @@ RELATED_POSTS_MAX = 5
 
 # Following items are often useful when publishing
 
+# for the plugin sitemap
+SITEMAP = {'format': 'xml'}
+
 DISQUS_SITENAME = "foxmasktriggerhappyeu"
-#GOOGLE_ANALYTICS = ""
 
 # pour le theme octopress
 #SIDEBAR_IMAGE = '/static/cactus.png'
