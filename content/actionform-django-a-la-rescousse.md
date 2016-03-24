@@ -5,6 +5,7 @@ Tags: django, actionform
 Category: Techno
 Slug: actionform-django-a-la-rescousse
 Status: published
+Summary: ActionForm ou Comment produire une liste d'actions, dans l'admin django, à partir du contenu d'un autre modèle, tel est le but de ce billet ;)
 
 
 Un besoin se fit ressentir today :
@@ -32,7 +33,7 @@ admin.site.register(Article, ArticleAdmin)
 
 Arrive le moment où c'est sympa, mais ceci ne suffit plus.
 
-![page de l'admin classique](/static/2016/03/admin_standard.png)
+![page de l'admin classique](https://foxmask.trigger-happy.eu/static/2016/03/admin_standard.png)
 
 Si j'ai à ventiler des données à partir de données se trouvant dans un autre modèle, je vais pas créer 'n' make_published_x,y,z .
 
@@ -72,7 +73,7 @@ En l'état ça ne suffit pas pour fonctionner complètement. Il faut évidement 
 
 A présent, ma liste d'actions contient 2 actions, la suppression (action par defaut proposer par l'admin) et la mienne. Tout ça à gauche de ma liste déroulante des provider/consumer !
 
-![page de l'admin avec les actions](/static/2016/03/admin_actionform.png)
+![page de l'admin avec les actions](https://foxmask.trigger-happy.eu/static/2016/03/admin_actionform.png)
 
 Le code complet à présent donne :
 
