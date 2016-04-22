@@ -2,7 +2,7 @@ Title: Wallabag API 1.0.1
 Date: 2016-04-22 20:00
 Author: foxmask
 Category: Techno
-Tags: TriggerHappy, Wallabag
+Tags: TriggerHappy, Wallabag, python
 Slug: wallabag-api-1.0.1
 Status: published
 
