@@ -2,7 +2,7 @@ Title: Quand Les "job queue" et les amis "brokers de messages" sont mis au ranca
 Date: 2016-04-14 10:00
 Author: foxmask
 Category: Techno
-Tags: TriggerHappy, multiprocessing, activemq, celery, rq
+Tags: TriggerHappy, multiprocessing, activemq, celery, rq, beanstalkd
 Slug: job-queue-and-messages-broker-out
 Status: published
 
