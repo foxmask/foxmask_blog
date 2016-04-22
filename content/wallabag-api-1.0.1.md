@@ -51,4 +51,4 @@ wall.post_entries(url=my_url, title=my_title, tags=my_tags)
 
 this will give you something like this 
 
-![wallabag post](https://github.com/foxmask/wallabag_api/blob/master/wallabag.png)
+![wallabag post](https://raw.githubusercontent.com/foxmask/wallabag_api/master/wallabag.png)
