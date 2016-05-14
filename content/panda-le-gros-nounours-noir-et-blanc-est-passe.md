@@ -33,3 +33,4 @@ $ python hours_estimate.py |grep -v 0.00000
 * 9hres pour le projet de "[gestion de son diabete au quotidien](https://github.com/foxmask/dj-diabetes)"
 
 Pas de quoi fouetter un chat, mais ca donne une idée du temps que j'ai dépensé ;)
+Evidement la dedans on ne peut pas quantifier les durées pour le temps passé à tester moult techno pour arriver au resultat escompté. Mais ça donne un ordre de grandeur !
