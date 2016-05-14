@@ -27,7 +27,7 @@ $ python hours_estimate.py |grep -v 0.00000
 
 * En tout 140heures pour Trigger Happy.
 
-  Si je pars sur des journées de 6heures ca fait 23jours ou 46jours en codant "à temps perdu", en gros un bon moi et demi non stop quoi.
+  Si je pars sur des journées de 6heures ca fait 23jours ou 46jours en codant "à temps perdu", en gros un bon mois et demi non stop quoi.
 
 * 4hres pour l'API [wallabag](https://github.com/foxmask/wallabag_api)
 * 9hres pour le projet de "[gestion de son diabete au quotidien](https://github.com/foxmask/dj-diabetes)"
