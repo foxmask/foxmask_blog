@@ -6,7 +6,7 @@ Tags: TriggerHappy, python, Pandas
 Slug: le-gros-nounours-noir-et-blanc-est-passe
 Status: published
 
-En lisant ma pile d'articles de veille techno dans mon instance [wallabag](https://walabag.org), je suis tombé sur une article mesurant le temps passé sur ses projets.
+En lisant ma pile d'articles de veille techno dans mon instance [wallabag](https://walabag.org), je suis tombé sur un article mesurant le temps passé sur ses projets.
 Rien de nouveau au soleil puisque tout à chacun connait bien [pandas](https://pypi.python.org/pypi/pandas) :)
 
 Cependant, après un petit coup de `pip install git-pandas` et en exécutant [ce script panda](https://github.com/wdm0006/git-pandas/blob/master/examples/hours_estimate.py) on peut donc mesurer le temps passé directos sur ses dépots, et donc pour bibi, il en ressort ceci 
