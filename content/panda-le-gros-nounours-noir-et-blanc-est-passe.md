@@ -31,3 +31,5 @@ $ python hours_estimate.py |grep -v 0.00000
 
 * 4hres pour l'API [wallabag](https://github.com/foxmask/wallabag_api)
 * 9hres pour le projet de "[gestion de son diabete au quotidien](https://github.com/foxmask/dj-diabetes)"
+
+Pas de quoi fouetter un chat, mais ca donne une idée du temps que j'ai dépensé ;)
