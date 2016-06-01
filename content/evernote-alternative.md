@@ -15,7 +15,7 @@ Le but étant d'avoir l'appli à portée de main facilement.
 
 Voici les réponses obtenues :
 
-| solution      | Langage | API | Client Android |
+| solution | Langage | API | Client Android |
 | ------------- |---------|-----|----------------| 
 | [Laverna](https://github.com/Laverna/laverna) | JavaScript | non | non |
 | [Paperwork](https://github.com/twostairs/paperwork) | PHP | [oui](https://laverna.cc/index.html) | [oui](https://github.com/theSoenke/Paperwork-Android) |
@@ -37,3 +37,8 @@ Le choix ... mais :
 J'ai facilement ([à partir de cette page](https://github.com/twostairs/paperwork/wiki/Installing-Paperwork-on-Debian-7)) pu installer, mais quand j'ai mis PostgreSQL en guise de RDBMS ... *[boom](https://github.com/twostairs/paperwork/issues/615)*
 
 Du coup je suis le bec dans l'eau :P
+
+C'est beau l'opensource hein à se triturer les méninges pour se libérer de nos carcans ;)
+
+Au moins ça occupe :D
+
