@@ -111,3 +111,29 @@ admin.site.register(TriggerService, TriggerServiceAdmin)
 
 
 Voilou pour le tips du jour ;)
+
+
+
+
+
+**Edit du 22/09/2016** :
+
+
+Avec ce form, on peut avoir un soucis qui ne saute pas aux yeux, de prime abord, quand les données ne varient pas souvent
+
+```python
+class ServicesActivatedActionForm(ActionForm):
+    provider = forms.ChoiceField(choices=ServicesActivated.objects.values_list('id', 'name'))
+    consumer = forms.ChoiceField(choices=ServicesActivated.objects.values_list('id', 'name'))
+```
+
+Mais si votre liste déroulante contient des catégories que vous mettez à jour, ajoutez, retirez regulierement, on "remarque" que les données ne sont "rafraîchies" correctement dans la liste déroulante. Par exemple, si j'ajoute une catégorie, elle ne s'affiche pas immédiatement dans la vue, et inversement si je retire une catégorie de la base, elle reste encore présente dans la liste déroulante de ma vue.
+
+Pour corriger cela on passe par un form simple :
+
+```python
+class ServicesActivatedActionForm(ActionForm):
+    provider = forms.ModelChoiceField(queryset=ServicesActivated.objects.all())
+    consumer = forms.ModelChoiceField(queryset=ServicesActivated.objects.all())
+```
+

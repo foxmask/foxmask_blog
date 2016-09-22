@@ -36,5 +36,4 @@ sub 2048R/E4E3C280 2013-08-19
 Ne le cherchez pas sur les réseaux sociaux vous seriez déçu. 6ans sur
 twitter l'ont convaincu qu'il n'y avait plus rien à en attendre
 
-
-
+... Mais <blockquote cite="moi meme">il n'y a que les imbéciles qui ne changent pas d'avis</blockquote>, voici où me trouver <a href="https://twitter.com/foxxmask">@foxxmask</a> <em>(oui avec 2 x ; on n'a pas tardé à recup mon nick sitôt laché sitôt perdu :)</em>

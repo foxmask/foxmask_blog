@@ -60,7 +60,7 @@ SEARCH_URL = 'search.html'
 
 AVATAR = '/static/cactus.png'
 
-ABOUT_ME = '<a href="/pages/a-propos">Passionné par les Logiciels Libres</a>'
+ABOUT_ME = '<a href="/pages/a-propos">Passionné par les Logiciels Libres</a><br/><a href="https://twitter.com/foxxmask/">@foxxmask</a>'
 
 # Standard
 DEFAULT_CATEGORY = 'General'
