@@ -338,24 +338,13 @@ version de celery plus ancienne.
 Il existe bien d'autres alternatives à celery
 
 On peut aussi s'orienter vers des systèmes de queueing alternatifs
-listés ici <http://queues.io/>
+listés [ici](http://queues.io)
 
-<p>
 Dont  
-<lu>
 
-<li>
-[RQ: Simple job queues for Python](http://python-rq.org/)  
-par l'[auteur](http://nvie.com/) du [fameux git
-worklow](http://nvie.com/posts/a-successful-git-branching-model/)
+* [RQ: Simple job queues for Python](http://python-rq.org/) par l'[auteur](http://nvie.com/) du [fameux git worklow](http://nvie.com/posts/a-successful-git-branching-model/)
+* [Voire carrément exploiter redis directement](http://sametmax.com/redis-pourquoi-et-comment/)
 
-</li>
-<li>
-[Voire carrément exploiter redis
-directement](http://sametmax.com/redis-pourquoi-et-comment/)
-
-</li>
-</ul>
 ### Alternative à Supervisor
 
 On trouve [Circus](https://circus.readthedocs.org/) mais je n'ai pas
