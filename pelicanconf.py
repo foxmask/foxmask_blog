@@ -45,7 +45,7 @@ DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_FEEDS_ON_MENU = True
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
-DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 RECENT_POST_COUNT = 5
 
 TWITTER_CARDS = True
@@ -58,9 +58,9 @@ DIRECT_TEMPLATES = ('index', 'categories', 'tags', 'archives', 'search')
 TIPUE_SEARCH = True
 SEARCH_URL = 'search.html'
 
-AVATAR = '/static/cactus.png'
+# AVATAR = '/static/cactus.png'
 
-ABOUT_ME = '<a href="/pages/a-propos">Passionné par les Logiciels Libres</a><br/><a href="https://twitter.com/foxxmask/">@foxxmask</a>'
+# ABOUT_ME = '<a href="/pages/a-propos">Passionné par les Logiciels Libres</a><br/><a href="https://twitter.com/foxxmask/">@foxxmask</a>'
 
 # Standard
 DEFAULT_CATEGORY = 'General'

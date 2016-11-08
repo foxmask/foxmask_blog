@@ -12,28 +12,26 @@ la Loire, juste passé par du Perl, PHP et enfin Python.
 
 Du [Perl](http://www.perl.org/) il retient [IRSSI](http://irssi.org/)
 :P  
+
 Du [PHP](http://php.net/) il retient [CakePHP](http://cakephp.org/),
 puis l'excellentissime framework [Jelix](http://jelix.org/) (dont le mec
 est core-developper) et tous ses membres qui composent la team  
+
 Du [Python](https://www.python.org/) il retient tout ce qu'on peut
 imaginer gravitant autour du web et du devops. Genre au pif,
-[Django](https://www.djangoproject.com/).
+[Django](https://www.djangoproject.com/). 
+
+Mon dernier joujou en date est un projet libre, un clone du service [IFTTT (If This Then That)](https://ifttt.com), nommé [Trigger-Happy](https://trigger-happy.eu) ouvert à tout à chacun et dispo sur [github](https://github.com/foxmask/django-th)
 
 * * * * *
+Communiquons en tout tranquilité en chiffrant nos échanges ;)
 
-GPG Key [2048R/001C25ED 6B03 3901 AF80 4B8A 4361 FCA5 165B B7CD 0B10
-E35E](http://foxmask.info/public/pubkey.txt)  
-uid : FoxMaSk
- <foxmaskhome![dot](/static/2014/05/dot.png)gmail.com\>
-sub 2048R/E4E3C280 2013-08-19
+fingerprint:
+
+7872 9764 858C F393 6C3D  635B 944C 8116 F916 487E
 
 * * * * *
-
+Ou retrouvez moi sur Keybase.io  
 [keybase.io/foxmask](https://keybase.io/foxmask)
 
 * * * * *
-
-Ne le cherchez pas sur les réseaux sociaux vous seriez déçu. 6ans sur
-twitter l'ont convaincu qu'il n'y avait plus rien à en attendre
-
-... Mais <blockquote cite="moi meme">il n'y a que les imbéciles qui ne changent pas d'avis</blockquote>, voici où me trouver <a href="https://twitter.com/foxxmask">@foxxmask</a> <em>(oui avec 2 x ; on n'a pas tardé à recup mon nick sitôt laché sitôt perdu :)</em>
