@@ -35,3 +35,5 @@ Ou retrouvez moi sur Keybase.io
 [keybase.io/foxmask](https://keybase.io/foxmask)
 
 * * * * *
+
+Sinon rien à voir avec la choucroute, parfois je pousse du buis tantôt blanc tantôt noir. Mon joueur prefere est un paranoïaque [Aaron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch) et son livre [Mein System](https://en.wikipedia.org/wiki/My_System) traduit très bien sa peur permanente, et du coup la prophylaxie qui fut son domaine aux échecs.

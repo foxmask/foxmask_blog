@@ -14,6 +14,8 @@ THEME = '../pelican-themes/pelican-bootstrap3/'
 
 PATH = 'content'
 
+DEFAULT_LANG = 'en'
+
 # Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
@@ -74,6 +76,9 @@ PAGE_SAVE_AS = 'pages/{slug}/index.html'
 LINKS = (('Sam&Max', 'http://sametmax.com'),
          ('S&M Community news', 'https://smcomm.trigger-happy.eu/'),
          ('Indexerror Q&R Python', 'http://indexerror.net/'),
+         ('RSS', 'https://foxmask.trigger-happy.eu/feeds/all.rss.xml'),
+         ('Atom', 'https://foxmask.trigger-happy.eu/feeds/all.atom.xml'),
+         ('Stats', 'https://foxmask.trigger-happy.eu/stats.html'),
          )
 
 FREE_PROJECT = True
