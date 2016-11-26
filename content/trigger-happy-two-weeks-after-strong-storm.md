@@ -56,6 +56,6 @@ The madness is fallen, I can continue to sleep well without being overloaded by 
 But of course, do not hesitate to ask for them, or drop a message to exchange ideas.
 [for example like here](https://github.com/foxmask/django-th/issues/155).
 
-May be one day I will post you an article about Taiga.io, not necessary about the product/project itself but about the [guy](https://github.com/bameda), bameda, who gave me a lot of help about how to interact with Taiga with great kindness...
+May be one day I will post you an article about Taiga.io, not necessary about the product/project itself but about the [guy](https://github.com/bameda), bameda, who helped me a lot about how to interact with Taiga with great kindness...
 
 This is for this kindness and this exchanges that I always love to make things here and there, for the Open Source, my way.
