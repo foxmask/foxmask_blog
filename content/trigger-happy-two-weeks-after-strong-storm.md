@@ -27,6 +27,8 @@ That signal told me
 
 ### Second : 
 
+The day after, a well known french website [korben](http://korben.info/trigger-happy-clone-libre-difttt.html) posted an article too. I thought "God, heaven can wait" :D
+
 [the stats](https://trigger-happy.eu/static/report.html) of the website exploded November the 14th: *30.000 hits* in 2 days. Reminder, the project is unknown until then, so the visits are mine :)
 
 ### Third
