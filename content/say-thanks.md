@@ -7,7 +7,7 @@ status: Published
 
 > Thankfulness is the key to happiness  
 
-Sometimes you never rceived a thanks for a project you made for a friend, sometimes you [received a thanks](https://github.com/foxmask/wallabag_api/issues/1) from unknown people who just had fun with a little piece of code.
+Sometimes you never received a thanks for a project you made for a friend, sometimes you [received a thanks](https://github.com/foxmask/wallabag_api/issues/1) from unknown people who just had fun with a little piece of code.
 
 Open Source is like that ;)
 
