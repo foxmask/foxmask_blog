@@ -11,7 +11,7 @@ Two weeks ago, I told to myself, to try a last thing to get out the project of a
 
 After all, I made the project for myself, If nobody needs it. It's Okkkkkkkkkay.
 
-But after some nice comments and exchanges on Linuxfr.org, a friend, that I had lost sight of, decided to post the project on [HackNews](https://news.ycombinator.com/item?id=12945221).
+But after some nice comments and exchanges on [Linuxfr.org](http://linuxfr.org/news/trigger-happy-une-passerelle-entre-vos-services-internet), a friend, that I had lost sight of, decided to post the project on [HackNews](https://news.ycombinator.com/item?id=12945221).
 
 ## Then came the storm for the project.
 
