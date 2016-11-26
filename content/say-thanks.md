@@ -14,5 +14,5 @@ Open Source is like that ;)
 And then, recently I crossed the road of a funny project ["Say thanks"](https://saythanks.io/). Which permits to drop a little word to the author of the project you enjoyed.
 This project looks as clear and clean, as we usually see projects by Kenneth Reitz, ["Mister Requests"](https://python-requests.org). The strength is the simplicity. (I am asking myself if he does not play chess too, where strength in simplicity is often met:). I noticed a detail about the i[README of his project](https://github.com/kennethreitz/saythanks.io/blob/master/README.md) "Random inspiration Links" ;)
 
-Then, if you have enjoy [Trigger Happy](https://trigger-happy.eu), just drop me a word from [![Say thanks to](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/foxmask)
+Then, if you have enjoyed [Trigger Happy](https://trigger-happy.eu), just drop me a word from [![Say thanks to](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/foxmask)
 
