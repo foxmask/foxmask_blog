@@ -2,7 +2,7 @@ Title: Incontournables Pythonerie
 Date: 2013-02-15 11:54
 Author: foxmask
 Category: Techno
-Tags: python
+Tags: python, pythonerie
 Slug: incontournables-pythonerie
 Status: published
 

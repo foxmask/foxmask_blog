@@ -1,4 +1,4 @@
-Title: Entrevue en toute simplicité - Sam & Max
+Title: Entrevue en toute simplicité - Sam et Max
 Date: 2015-08-31 10:45
 Author: foxmask
 Category: Entrevues
@@ -11,7 +11,7 @@ le faire, me disant que tout le monde les connaissait, j'ai fini par
 franchir le pas. Donc voici une entrevue avec [Sam ET
 Max](http://sametmax.com/)
 
-Bonjour Sam & Max,
+Bonjour Sam et Max,
 
 **Pouvez vous vous présenter en quelques mots ?**
 

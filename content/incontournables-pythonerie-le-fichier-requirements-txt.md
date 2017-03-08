@@ -2,7 +2,7 @@ Title: Incontournables Pythonerie : le fichier requirements.txt
 Date: 2013-07-01 11:00
 Author: foxmask
 Category: Techno
-Tags: python
+Tags: python, pythonerie
 Slug: incontournables-pythonerie-le-fichier-requirements-txt
 Status: published
 

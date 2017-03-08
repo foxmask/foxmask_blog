@@ -24,7 +24,7 @@ Zensuite mon chemin a croisé ces 3 billets du même auteur
     Redis](http://agiliq.com/blog/2015/07/getting-started-with-celery-and-redis/)
 
 Un petit [The User is Dead](http://sametmax.com/the-user-is-dead/) par
-Sam&Max
+Sam et Max
 
 La prochaine DjangoCon sera aux USA le 6 septembre 2015
 

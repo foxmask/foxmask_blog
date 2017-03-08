@@ -2,7 +2,7 @@ Title: Incontournables Pythonerie : publier son appli Django sans la config pers
 Date: 2013-06-24 14:15
 Author: foxmask
 Category: Techno
-Tags: python
+Tags: python, pythonerie
 Slug: incontournables-pythonerie-publier-son-appli-django-sans-la-config-perso
 Status: published
 

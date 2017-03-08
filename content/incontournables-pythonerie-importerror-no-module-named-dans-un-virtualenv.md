@@ -2,7 +2,7 @@ Title: Incontournables Pythonerie : ImportError: No module named 'xxx' dans un v
 Date: 2013-11-05 16:22
 Author: foxmask
 Category: Techno
-Tags: python
+Tags: python, pythonerie
 Slug: incontournables-pythonerie-importerror-no-module-named-dans-un-virtualenv
 Status: published
 

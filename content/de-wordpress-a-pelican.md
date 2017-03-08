@@ -16,7 +16,7 @@ Pourquoi ?
 
 La réponse est multiple, et un peu redondante avec le billet précédent.
 J'ai voulu mettre fin à mon blog en wordpress parce que je ne vais pas continuer à conserver le domaine et l'hebergement associé. Comme je n'ai tout de même pas voulu tout mettre aux oubliettes, j'ai tout de même conserver un peu de ces 11ans de blog.
-Le choix vers pelican s'est fait naturellement après l'avoir testé pour 2 autres blogs, celui pour "[la communauté sam&max](http://smcomm.trigger-happy.eu)" et celui du projet [trigger-happy](http://blog.trigger-happy.eu)
+Le choix vers pelican s'est fait naturellement après l'avoir testé pour 2 autres blogs, celui pour "[la communauté sam et max](http://smcomm.trigger-happy.eu)" et celui du projet [trigger-happy](http://blog.trigger-happy.eu)
 
 
 Comment ?

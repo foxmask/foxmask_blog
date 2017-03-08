@@ -116,6 +116,6 @@ service de plus, le plus aisément possible.
     GitHub](https://github.com/foxmask/django-th)
 
 **Last but not Least : Greetings !**  
-Un petit mot de remerciements pour [Sam&Max](http://sametmax.com/) que
+Un petit mot de remerciements pour [Sam et Max](http://sametmax.com/) que
 j'ai longuement sollicité et m'ont aidé sur l'archi à tenir ;)
 

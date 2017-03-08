@@ -2,7 +2,7 @@ Title: Incontournables Pythonerie : un pack de 12 s'il te plait !
 Date: 2013-03-18 10:00
 Author: foxmask
 Category: Techno
-Tags: python
+Tags: python, pythonerie
 Slug: incontournables-pythonerie-pack-de-12
 Status: published
 

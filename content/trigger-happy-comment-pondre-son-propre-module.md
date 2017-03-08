@@ -148,7 +148,7 @@ class PocketConsummerForm(PocketForm):
     pass
 ```
 
-Ici en sus, on fournit 2 classes supplémentaires *PocketProviderForm* &
+Ici en sus, on fournit 2 classes supplémentaires *PocketProviderForm* et
 *PocketConsummerForm* pour permettre lors de la création d'un Trigger,
 de disposer du formulaire de Pocket, soit quand on décide que Pocket est
 la source de données (donc le Provider) soit la cible (le Consummer)

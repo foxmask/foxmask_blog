@@ -2,7 +2,7 @@ Title: Incontournables Pythonerie : parse parse parsera la dernière la dernièr
 Date: 2013-03-13 15:04
 Author: foxmask
 Category: Techno
-Tags: python
+Tags: python, pythonerie
 Slug: incontournables-pythonerie-parse-parse-parsera-la-derniere-la-derniere
 Status: published
 

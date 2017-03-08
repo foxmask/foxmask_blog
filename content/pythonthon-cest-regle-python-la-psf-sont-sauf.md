@@ -1,4 +1,4 @@
-Title: Pythonthon c'est réglé : Python & la PSF sont sauf !
+Title: Pythonthon c'est réglé : Python et la PSF sont sauf !
 Date: 2013-03-20 12:00
 Author: foxmask
 Category: Techno

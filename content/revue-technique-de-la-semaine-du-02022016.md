@@ -19,7 +19,7 @@ Pour ma part j'ai rapidement repris le dessus puisque je peux facilement renvoye
 
 Mais revenons à nos moutons, après ce premier évènement, suit un second depuis hier, Evernote annonce cesser son activité de [vente de produits hype](http://www.theverge.com/2016/2/1/10890562/evernote-market-shut-down-moleskine-notebook-2016) et quand même cher pour ce que c'est. Donc fini les carnets moleskine, portefeuille et scanner, qui ne seront plus vendus que par leur partenaire. Evernote se recentrant (enfin?) sur le software.
 
-Ce qui m'a toujours paru bizarre c'est leur blog où il tente de "louer", via des personnes exterieures à l'entreprise, la reussite de l'utilisation de l'outil, qui leur a changé la vie, qui les a rendu plus productifs etc. Comme s'ils avaient besoins de témoignages pour s'en convaincre eux mêmes. Ca me fait trop penser aux vieilles "pub témoignages" moisies "Weight&Watchers" où pour vous convaincre, il faut vous le dire...
+Ce qui m'a toujours paru bizarre c'est leur blog où il tente de "louer", via des personnes exterieures à l'entreprise, la reussite de l'utilisation de l'outil, qui leur a changé la vie, qui les a rendu plus productifs etc. Comme s'ils avaient besoins de témoignages pour s'en convaincre eux mêmes. Ca me fait trop penser aux vieilles "pub témoignages" moisies "Weight Watchers" où pour vous convaincre, il faut vous le dire...
 
 Pour ma part j'adore l'outil qui, techniquement, est incontournable (le moteur de recherche offline + l'OCR notamment + le plugin firefox de capture d'article) mais la comm marketing autour est une misère.
 
@@ -51,9 +51,9 @@ Des meetup (DevOps, Paris.py) ont repris mais j'ai pas l'envie là tout de suite
 
 Quelques bons billets à se mettre sous la dent :
 
-* [Evolution de Python](http://sametmax.com/evolution-de-python/) par Sam & Max
+* [Evolution de Python](http://sametmax.com/evolution-de-python/) par Sam et Max
 * [Free Software activities](http://anarc.at/blog/2016-01-31-free-software-activities-january-2016/) par Anarc
-* [News de Crossbar](http://sametmax.com/nouvelle-release-de-crossbar-historique-des-events-et-crypto/) par Sam & Max
+* [News de Crossbar](http://sametmax.com/nouvelle-release-de-crossbar-historique-des-events-et-crypto/) par Sam et Max
 * [PyCharm 5.0.4](http://feedproxy.google.com/~r/Pycharm/~3/YWRWdinNGw4/)
 * [Le Pypi nouveau est sur les rails](http://pyfound.blogspot.fr/2016/01/postscript-to-warehouse-post.html) par la PSF
 

@@ -15,7 +15,7 @@ Wallabag 2.0.8
 
 [Wallabag](https://wallabag.org) nous gratifie d'une version 2.0.8 avant une potentielle 2.1
 
-Sam & Max
+Sam et Max
 =========
 
 'ils' sont de retour avec de nouveaux billets dont le dernier aborde UUID : [Vérifier qu'un UUID est valide en Python](http://sametmax.com/verifier-quun-uuid-est-valide-en-python/)

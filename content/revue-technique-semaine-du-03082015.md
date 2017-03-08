@@ -20,7 +20,7 @@ Il s'agit de deux projets apache nommés :
     https://pykafka.readthedocs.org/en/latest/
 
 je ne sais pas si vous voyez des similitudes avec
-[CROSSBAR](http://crossbar.io/)& [Autobahn](http://autobahn.ws/python/)
+[CROSSBAR](http://crossbar.io/) et [Autobahn](http://autobahn.ws/python/)
 mais je trouve que c'est frappant ;)
 
 **Autobahn 0.10.5**  

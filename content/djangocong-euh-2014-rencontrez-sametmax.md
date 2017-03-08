@@ -1,4 +1,4 @@
-Title: DjangoCong.euh 2014 rencontrez Sam&Max
+Title: DjangoCong.euh 2014 rencontrez Sam et Max
 Date: 2014-04-01 10:30
 Author: foxmask
 Category: Techno
@@ -27,7 +27,7 @@ où tout à chacun pourra à loisir se laisser allez [à écouter parler de
 poneys](http://poney.bandcamp.com/) dans [un programme des plus
 dense](http://www.tmdancecountry.com/?q=les-cours/danse).
 
-Et last but not least, en Guest Star [Sam&Max](http://sametmax.com) nous
+Et last but not least, en Guest Star [Sam et Max](http://sametmax.com) nous
 parleront de leur [expérience](http://sametmax.com/tag/django/) avec
 notre
 [Poney](http://sametmax.com/traquez-les-erreurs-de-vos-apps-django-avec-sentry/)

@@ -99,7 +99,7 @@ ce serait le rêve.
 exaucer, rencontrer l'une des ces 3 personnes : qui et pourquoi ?**
 
 -   Guido
--   Sam&Max
+-   Sam et Max
 -   Moi :-)
 
 **Spout** Foxmask pour aller boire une bière (belge) et partager notre

@@ -1,4 +1,4 @@
-Title: Sam & Max Le Papa Noël descendu du ciel
+Title: Sam et Max Le Papa Noël descendu du ciel
 Date: 2013-01-08 19:58
 Author: foxmask
 Category: General
@@ -15,7 +15,7 @@ ici le fond du colis : Les enfants ont déjà fait la razia ;)
 [![Bonbons "bulles" pour "caler"](/static/2013/01/2013-01-08-19.05.42-300x225.jpg)](/post/2013/01/08/sam-max-le-papa-noel-descendu-du-ciel/2013-01-08-19-05-42/)
 
 
-Ici on notera la touche "perso" de Sam & Max (c'est scotché sur la
+Ici on notera la touche "perso" de Sam et Max (c'est scotché sur la
 boiboite :)  
 [![2013-01-08
 19.06.30](/static/2013/01/2013-01-08-19.06.30-225x300.jpg)](/post/2013/01/08/sam-max-le-papa-noel-descendu-du-ciel/2013-01-08-19-06-30/)
@@ -26,7 +26,7 @@ secoués, dans l'emballage !
 [![Razer fraichement sorti de l'emballage, avec un tapis de tueur !](/static/2013/01/2013-01-08-19.15.21-300x225.jpg)](/post/2013/01/08/sam-max-le-papa-noel-descendu-du-ciel/2013-01-08-19-15-21/)
 
 
-Etui, tapis & notice  
+Etui, tapis et notice  
 [![Tapis Kabuto, Mode d'emploi, Certificat d'authenticité, Poche de transport](/static/2013/01/2013-01-08-19.26.09-225x300.jpg)](/post/2013/01/08/sam-max-le-papa-noel-descendu-du-ciel/2013-01-08-19-26-09/)
 
 

@@ -11,7 +11,7 @@ Au menu ici, un tuto sur Python, Twisted, MAT, Django
 Python
 ------
 
-**Le tuto de Sam&Max**
+**Le tuto de Sam et Max**
 
 https://twitter.com/sam\_et\_max/status/599840755734175744
 

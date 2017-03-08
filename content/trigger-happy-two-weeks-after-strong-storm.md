@@ -1,8 +1,8 @@
 Title: Trigger Happy two weeks after a strong Storm...
 Date: 2016-11-26 18:00
 Author: foxmask
-Category: Techno, TriggerHappy
-Tags: linxufr, hackernews, korben
+Category: Techno
+Tags: linxufr, hackernews, korben, TriggerHappy
 Slug: trigger-happy-two-weeks-after-strong-storm
 Status: published
 Summary: After an article on linuxfr, things accelerated itselves for Trigger Happy.

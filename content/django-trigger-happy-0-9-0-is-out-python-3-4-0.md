@@ -1,4 +1,4 @@
-Title: Django Trigger Happy 0.9.0 is out & Python 3.4.0
+Title: Django Trigger Happy 0.9.0 is out and Python 3.4.0
 Date: 2014-05-14 10:37
 Author: foxmask
 Category: Techno
@@ -7,12 +7,12 @@ Slug: django-trigger-happy-0-9-0-is-out-python-3-4-0
 Status: published
 
 [cet article est aussi dispo en français
-ici](/post/2014/05/14/django-trigger-happy-0-9-0-is-la-python-3-4-0/ "Django Trigger Happy 0.9.0 is là & Python 3.4.0")
+ici](/post/2014/05/14/django-trigger-happy-0-9-0-is-la-python-3-4-0/ "Django Trigger Happy 0.9.0 is là et Python 3.4.0")
 
 **Intro :**  
 Trigger Happy is a project (written in
 [python](https://www.python.org/) with
-[django](https://www.djangoproject.com/)) which aims to be a free &
+[django](https://www.djangoproject.com/)) which aims to be a free and
 opensource alternative to [IFTTT.com](https://ifttt.com/).
 
 Trigger Happy can be defined as a micro

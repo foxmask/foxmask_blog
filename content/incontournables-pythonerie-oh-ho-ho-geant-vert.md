@@ -2,7 +2,7 @@ Title: Incontournables Pythonerie : Oh ho ho Géant Vert
 Date: 2013-02-25 14:24
 Author: foxmask
 Category: Techno
-Tags: python, relatorio
+Tags: python, relatorio, pythonerie
 Slug: incontournables-pythonerie-oh-ho-ho-geant-vert
 Status: published
 

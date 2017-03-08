@@ -2,7 +2,7 @@ Title: Incontournables Pythonerie : Die Arg
 Date: 2013-02-25 10:00
 Author: foxmask
 Category: Techno
-Tags: python
+Tags: python, pythonerie
 Slug: incontournables-pythonerie-die-arg
 Status: published
 

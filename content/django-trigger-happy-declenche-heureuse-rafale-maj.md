@@ -72,7 +72,7 @@ Avec ce dernier vous pouvez envoyer des données d'un des services ci
 dessus sur votre compte Twitter, ou récupérer des infos depuis Twitter
 (via un Tag ou le compte d'un Twittos) pour les expédier vers l'un des
 services ci dessus.  
-Genre une news tombe chez nos amis de [Sam&Max](http://sametmax.com) et
+Genre une news tombe chez nos amis de [Sam et Max](http://sametmax.com) et
 vous voulez la publier cache sur Twitter, ou à l'inverse vous suivez
 leur compte Twitter et voulez ne rien rater de leur Tweets pour les
 balancer sur votre compte Pocket, ce module est là pour ça.

@@ -2,7 +2,7 @@ Title: Incontournables Pythonerie : BigBrother is logging you
 Date: 2013-03-11 10:00
 Author: foxmask
 Category: Techno
-Tags: python
+Tags: python, pythonerie
 Slug: incontournable-pythonerie-bigbrother-is-logging-you
 Status: published
 
