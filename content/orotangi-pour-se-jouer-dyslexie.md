@@ -1,7 +1,7 @@
 Title: Orotangi, pour se jouer de la dyslexie
 Date: 2017-04-25 16:00
 Author: foxmask
-Category: Techno, General
+Category: Techno
 Slug: orotangi-pour-se-jouer-dyslexie
 Status: published
 

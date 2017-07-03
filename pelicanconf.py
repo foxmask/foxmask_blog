@@ -9,8 +9,7 @@ SITESUBTITLE = 'La passion de la liberté'
 SITEURL = 'https://foxmask.trigger-happy.eu'
 TIMEZONE = 'Europe/Paris'
 
-THEME = '../pelican-themes/pelican-bootstrap3/'
-#THEME = 'notmyidea'
+THEME = '../../pelican/pelican-themes/pelican-bootstrap3/'
 
 
 PATH = 'content'
@@ -111,7 +110,7 @@ EXTRA_PATH_METADATA = {
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-PLUGIN_PATHS = ['../pelican-plugins']
+PLUGIN_PATHS = ['../../pelican/pelican-plugins']
 
 class i18n(object):
     # looks for translations in
