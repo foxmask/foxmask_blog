@@ -80,8 +80,6 @@ PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 # Blogroll
 LINKS = (('Sam et Max', 'http://sametmax.com'),
-         ('S et M Community news', 'https://smcomm.trigger-happy.eu/'),
-         ('Indexerror Q and R Python', 'http://indexerror.net/'),
          ('RSS', 'https://foxmask.trigger-happy.eu/feeds/all.rss.xml'),
          ('Atom', 'https://foxmask.trigger-happy.eu/feeds/all.atom.xml'),
          ('Stats', 'https://foxmask.trigger-happy.eu/stats.html'),
@@ -173,7 +171,6 @@ GITHUB_ACTIVITY_FEED = 'https://github.com/foxmask.atom'
 GITHUB_ACTIVITY_MAX_ENTRIES = 10
 
 MD_EXTENSIONS = ['codehilite(css_class=codehilite code)']
-
 
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
