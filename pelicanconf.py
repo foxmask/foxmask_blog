@@ -176,4 +176,12 @@ MD_EXTENSIONS = ['codehilite(css_class=codehilite code)']
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 
-
+#MARKDOWN = {
+#    'extension_configs': {
+#        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+#        'markdown.extensions.extra': {},
+#        'markdown.extensions.meta': {},
+#        'markdown.extensions.tables':{},
+#    },
+#    'output_format': 'html5',
+#}
