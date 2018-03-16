@@ -52,8 +52,8 @@ J'ai eu 8500 objets synchronisés en 4 soirées (de 19h à 1h du matin + une, ce
 ### Pour les 2 projets :
 
 * Organiser les tag et dossiers en 'arbre' car la liste des dossiers et tags devient très longue et pollue visuellement
-* Pas de widget sur mobile ni pour l'un ni pour l'autre. Limitation dû à un bug lié React Native il semblerait.
-* Sur Joplin les tags ne peuvent être créés depuis le mobile, bug lié à React native, donc bug qui impacterait aussi Boostnote
+* Pas de widget sur mobile ni pour l'un ni pour l'autre. Limitation dû à un bug lié React Native il semblerait, donc bug qui impacterait aussi Boostnote.
+* Sur Joplin les tags ne peuvent être créés depuis le mobile.
 
 ### Pour Boostnote :
 
