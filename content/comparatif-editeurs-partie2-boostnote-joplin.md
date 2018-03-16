@@ -42,7 +42,7 @@ Autant l'extraction des notes sur mon desktop a été hyper rapide (~25min pour 
 
 Mes notes ont été decortiquées par Joplin qui a comptabilisé 8500 objets à synchroniser (ce qui prend en compte, les dossiers, tags, tags dans les notes, images dans les notes etc)
 
-J'ai eu 85000 objets synchronisés en 4 soirées (de 19h à 1h du matin + une, ce soir, de 20h à 23h40 ;).
+J'ai eu 8500 objets synchronisés en 4 soirées (de 19h à 1h du matin + une, ce soir, de 20h à 23h40 ;).
 
 <img src="/static/editeurs/joplin.png" title="Editeur de text markdown Joplin"/>
 
@@ -52,7 +52,7 @@ J'ai eu 85000 objets synchronisés en 4 soirées (de 19h à 1h du matin + une, c
 ### Pour les 2 projets :
 
 * Organiser les tag et dossiers en 'arbre' car la liste des dossiers et tags devient très longue et pollue visuellement
-* Pas de widget sur mobile ni pour l'un ni pour l'autre. Limitation dû à React Native il semblerait.
+* Pas de widget sur mobile ni pour l'un ni pour l'autre. Limitation dû à un bug lié React Native il semblerait.
 * Sur Joplin les tags ne peuvent être créés depuis le mobile, bug lié à React native, donc bug qui impacterait aussi Boostnote
 
 ### Pour Boostnote :
