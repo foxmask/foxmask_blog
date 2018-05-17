@@ -6,10 +6,10 @@ AUTHOR = 'FoxMaSk'
 SITENAME = 'Le Free de la Passion'
 SITESUBTITLE = 'La passion de la liberté'
 
-SITEURL = 'https://foxmask.trigger-happy.eu'
+SITEURL = 'https://foxmask.net'
 TIMEZONE = 'Europe/Paris'
 
-THEME = '../../pelican/pelican-themes/pelican-bootstrap3/'
+THEME = '/home/sites/pelican/pelican-themes/pelican-bootstrap3/'
 
 
 PATH = 'content'
@@ -56,9 +56,9 @@ DISPLAY_ARTICLE_INFO_ON_INDEX = True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 RECENT_POST_COUNT = 5
 
-TWITTER_CARDS = True
-TWITTER_USERNAME = 'triggerhappyeu'
-TWITTER_WIDGET_ID = 669143142793412608
+# TWITTER_CARDS = True
+# TWITTER_USERNAME = 'foxxmask'
+# TWITTER_WIDGET_ID = 669143142793412608
 
 USE_OPEN_GRAPH = True
 
@@ -80,9 +80,12 @@ PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 # Blogroll
 LINKS = (('Sam et Max', 'http://sametmax.com'),
-         ('RSS', 'https://foxmask.trigger-happy.eu/feeds/all.rss.xml'),
-         ('Atom', 'https://foxmask.trigger-happy.eu/feeds/all.atom.xml'),
-         ('Stats', 'https://foxmask.trigger-happy.eu/stats.html'),
+         ('RSS', 'https://foxmask.net/feeds/all.rss.xml'),
+         ('Atom', 'https://foxmask.net/feeds/all.atom.xml'),
+         ('Python Planet', 'http://planetpython.org/'),
+         ('Django Planet', 'http://django-planet.com/'),
+         ('Django-Fr Planet', 'http://www.django-fr.org/planete/'),
+
          )
 
 FREE_PROJECT = True
@@ -91,10 +94,10 @@ FREE_PROJECT = True
 # SOCIAL = (('@foxmask GitHub', 'https://github.com/foxmask'),)
 # SOCIAL = (('Twitter', 'https://twitter.com/triggerhappyeu'),)
 
-ATOM = (('ATOM Python', 'https://foxmask.trigger-happy.eu/feeds/python.atom.xml'),
-       ('ATOM Django', 'https://foxmask.trigger-happy.eu/feeds/django.atom.xml'),)
-RSS = (('RSS Python', 'https://foxmask.trigger-happy.eu/feeds/python.rss.xml'),
-       ('RSS Django', 'https://foxmask.trigger-happy.eu/feeds/django.rss.xml'),)
+ATOM = (('ATOM Python', 'https://foxmask.net/feeds/python.atom.xml'),
+       ('ATOM Django', 'https://foxmask.net/feeds/django.atom.xml'),)
+RSS = (('RSS Python', 'https://foxmask.net/feeds/python.rss.xml'),
+       ('RSS Django', 'https://foxmask.net/feeds/django.rss.xml'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -108,7 +111,7 @@ EXTRA_PATH_METADATA = {
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-PLUGIN_PATHS = ['../../pelican/pelican-plugins']
+PLUGIN_PATHS = ['/home/sites/pelican/pelican-plugins']
 
 class i18n(object):
     # looks for translations in
@@ -162,7 +165,7 @@ DISQUS_SITENAME = "foxmasktriggerhappyeu"
 CATEGORY_IN_SIDEBAR = False
 
 
-FEED_DOMAIN = 'https://foxmask.trigger-happy.eu'
+FEED_DOMAIN = 'https://foxmask.net'
 FEED_ATOM = 'main.atom.xml'
 FEED_RSS = 'main.rss.xml'
 

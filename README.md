@@ -1,22 +1,22 @@
-# foxmask.trigger-happy.eu
+# foxmask.net
 My Blog with pelican using disqus and providing RSS/ATOM
 
 ## Installation
 
 ```shell
-virtualenv foxmask.trigger-happy.eu
+virtualenv foxmask.net
 cd $_
 source bin/activated
-git clone https://github.com/foxmask/foxmask.trigger-happy.eu
+git clone https://github.com/foxmask/foxmask.github.io
 git clone --recursive https://github.com/getpelican/pelican-plugins
-mv foxmask.trigger-happy.eu website
+mv foxmask.net website
 pip install -r requirements.txt
 pelican-theme -s $PWD/pelican-bootstrap3
 ```
 
 ## Ready to create blog post ;)
 
-For that, [go to that link](https://github.com/foxmask/blog.trigger-happy.eu/new/master) and enjoy a new post ;)
+For that, [go to that link](https://github.com/foxmask/foxmask.github.io/new/master) and enjoy a new post ;)
 
 
 ## Theme pelican-bootstrap3

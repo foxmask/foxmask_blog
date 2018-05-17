@@ -93,7 +93,7 @@ Fine !
 
 But the coverage report (in html) shows us 
 
-![Twitter mocking save_data](https://foxmask.trigger-happy.eu/static/twitter_mock_save_data.png)
+![Twitter mocking save_data](/static/twitter_mock_save_data.png)
 
 
 and the % 
@@ -141,7 +141,7 @@ Just have a look :
 
 And this time the coverage report show us 
 
-![Twitter mocking save_data](https://foxmask.trigger-happy.eu/static/twitter_mock_save_data2.png)
+![Twitter mocking save_data](/static/twitter_mock_save_data2.png)
 
 
 and the % 

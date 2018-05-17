@@ -5,9 +5,9 @@ Tags: Evernote, Dropbox, Onenote, Simplenote, Nimbus, Google Keep, Turtl, Paperw
 Category: Techno
 Slug: comparatif-editeurs
 Status: published
-Summary: Un petit recapitulatif des outils de prise de notes que j'ai pu croiser, tester et tenter d'intégrer à [Trigger-Happy](https://trigger-happy.eu)
+Summary: Un petit recapitulatif des outils de prise de notes que j'ai pu croiser, tester et tenter d'intégrer à [Trigger-Happy](https://github.com/push-things/django-th)
 
-Voici un petit recapitulatif sans prétention, des outils de prise de notes que j'ai pu croiser, tester et tenter d'intégrer à [Trigger-Happy](https://trigger-happy.eu). Il y a 2 ans je m'étais déjà [penché sur le sujet d'Evernote]({filename}/evernote-de-pire-en-pire.md), et ce sujet continue encore et encore de me titiller.
+Voici un petit recapitulatif sans prétention, des outils de prise de notes que j'ai pu croiser, tester et tenter d'intégrer à [Trigger-Happy](https://github.com/push-things/django-th). Il y a 2 ans je m'éutais déjà [penché sur le sujet d'Evernote]({filename}/evernote-de-pire-en-pire.md), et ce sujet continue encore et encore de me titiller.
 
 
 

@@ -14,7 +14,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'fr'
 
-SITEURL = 'http://foxmask.trigger-happy.eu'
+SITEURL = 'https://foxmask.net'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

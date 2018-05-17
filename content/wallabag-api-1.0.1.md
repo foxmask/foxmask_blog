@@ -16,7 +16,7 @@ where I was administrator.
 After all that years, Nicolas made the PHP opensource project named "poche" at first, which became [Wallabag](https://www.wallabag.org/), 
 when on my side, after years, I stopped participating on [Jelix, a PHP5 framework](http://jelix.org), for Python.
 
-Then, when I started [TriggerHappy](https://blog.trigger-happy.eu/) and could integrate Pocket successfully,
+Then, when I started [TriggerHappy](https:/github.com/push-things/django-th/) and could integrate Pocket successfully,
 I asked to Nicolas If he planed to make an API that I then could integrate too... That was 2 years ago ;)
 
 Today, Wallabag is now in version 2 and the API is ready. Thanks to him and to his wonderful team. 

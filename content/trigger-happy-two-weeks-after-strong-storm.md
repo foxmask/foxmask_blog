@@ -29,13 +29,13 @@ That signal told me
 
 The day after, a well known french website [korben](http://korben.info/trigger-happy-clone-libre-difttt.html) posted an article too. I thought "God, heaven can wait" :D
 
-[the stats](https://trigger-happy.eu/static/report.html) of the website exploded November the 14th: *30.000 hits* in 2 days. Reminder, the project is unknown until then, so the visits are mine :)
+the stats of the website exploded November the 14th: *30.000 hits* in 2 days. Reminder, the project is unknown until then, so the visits are mine :)
 
 ### Third
 
 the day after, the project reachs the Python Github Trending : position 8. Behind were : Ansible, Django, Requests, not less ;) This, during a week. 
 
-![Github Trending Python](https://foxmask.trigger-happy.eu/static/trigger_happy_trending_python.png)
+![Github Trending Python](/static/trigger_happy_trending_python.png)
 
 ## Consequences : 
 
