@@ -9,7 +9,7 @@ SITESUBTITLE = 'La passion de la liberté'
 SITEURL = 'https://foxmask.net'
 TIMEZONE = 'Europe/Paris'
 
-THEME = '/home/sites/pelican/pelican-themes/pelican-bootstrap3/'
+THEME = '/home/foxmask/Projects/foxmask.net/pelican-themes/pelican-bootstrap3/'
 
 
 PATH = 'content'
@@ -19,16 +19,14 @@ DEFAULT_LANG = 'en'
 # Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
-TAG_FEED_RSS = 'feeds/%s.rss.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-TAG_FEED_ATOM = 'feeds/%s.atom.xml'
+#TAG_FEED_RSS = 'feeds/{slug}.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+#TAG_FEED_ATOM = 'feeds/{slug}.atom.xml'
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 FEED_MAX_ITEMS = 10
-
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 # theme bootstrap https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
 BANNER_SUBTITLE = 'La passion de la liberté'
@@ -111,39 +109,12 @@ EXTRA_PATH_METADATA = {
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-PLUGIN_PATHS = ['/home/sites/pelican/pelican-plugins']
-
-class i18n(object):
-    # looks for translations in
-    # {LOCALE_DIR}/{LANGUAGE}/LC_MESSAGES/{DOMAIN}.mo
-    # if not present, falls back to default    
-    
-    DOMAIN = 'messages'
-    LOCALE_DIR = '{THEME}/translations'
-    LANGUAGES = ['en']
-    NEWSTYLE = True
-
-    __name__ = 'i18n'
-
-    def register(self):
-        from pelican.signals import generator_init
-        generator_init.connect(self.install_translator)
-
-    def install_translator(self, generator):
-        import gettext
-        try:
-            translator = gettext.translation(
-                self.DOMAIN, 
-                self.LOCALE_DIR.format(THEME=THEME), 
-                self.LANGUAGES)
-        except (OSError, IOError):
-            translator = gettext.NullTranslations()
-        generator.env.install_gettext_translations(translator, self.NEWSTYLE)
-
+PLUGIN_PATHS = ['/home/foxmask/Projects/foxmask.net/pelican-plugins']
 
 PLUGINS = ['sitemap', 'pelican-page-order', 'tag_cloud', 'github_activity', 'related_posts', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo', 'liquid_tags.include_code',
-           'neighbors', 'github_activity', 'tipue_search', i18n()]
+           #'neighbors', 'github_activity', 'tipue_search']
+           'neighbors', 'github_activity', 'tipue_search', 'i18n_subsites']
 
 # related_posts plugin - https://github.com/getpelican/pelican-plugins/tree/master/related_posts
 RELATED_POSTS_MAX = 5
@@ -173,18 +144,16 @@ FEED_RSS = 'main.rss.xml'
 GITHUB_ACTIVITY_FEED = 'https://github.com/foxmask.atom'
 GITHUB_ACTIVITY_MAX_ENTRIES = 10
 
-MD_EXTENSIONS = ['codehilite(css_class=codehilite code)']
-
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 
-#MARKDOWN = {
-#    'extension_configs': {
-#        'markdown.extensions.codehilite': {'css_class': 'highlight'},
-#        'markdown.extensions.extra': {},
-#        'markdown.extensions.meta': {},
-#        'markdown.extensions.tables':{},
-#    },
-#    'output_format': 'html5',
-#}
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'markdown.extensions.tables':{},
+    },
+    'output_format': 'html5',
+}
