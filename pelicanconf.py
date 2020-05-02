@@ -54,19 +54,11 @@ DISPLAY_ARTICLE_INFO_ON_INDEX = True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 RECENT_POST_COUNT = 5
 
-# TWITTER_CARDS = True
-# TWITTER_USERNAME = 'foxxmask'
-# TWITTER_WIDGET_ID = 669143142793412608
-
 USE_OPEN_GRAPH = True
 
 CUSTOM_LICENSE='Unless otherwise stated, all articles are published under the <a href="http://www.wtfpl.net/about/">WTFPL</a> license.'
 
 DIRECT_TEMPLATES = ('index', 'categories', 'tags', 'archives', 'search')
-
-# AVATAR = '/static/cactus.png'
-
-# ABOUT_ME = '<a href="/pages/a-propos">Passionné par les Logiciels Libres</a><br/><a href="https://twitter.com/foxxmask/">@foxxmask</a>'
 
 # Standard
 DEFAULT_CATEGORY = 'General'
@@ -76,21 +68,12 @@ ARTICLE_SAVE_AS = 'post/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
-# Blogroll
-LINKS = (('Sam et Max', 'http://sametmax.com'),
+LINKS = (
          ('RSS', 'https://foxmask.net/feeds/all.rss.xml'),
          ('Atom', 'https://foxmask.net/feeds/all.atom.xml'),
-         ('Python Planet', 'http://planetpython.org/'),
-         ('Django Planet', 'http://django-planet.com/'),
-         ('Django-Fr Planet', 'http://www.django-fr.org/planete/'),
-
          )
 
 FREE_PROJECT = True
-
-# Social widget
-# SOCIAL = (('@foxmask GitHub', 'https://github.com/foxmask'),)
-# SOCIAL = (('Twitter', 'https://twitter.com/triggerhappyeu'),)
 
 ATOM = (('ATOM Python', 'https://foxmask.net/feeds/python.atom.xml'),
        ('ATOM Django', 'https://foxmask.net/feeds/django.atom.xml'),)
@@ -106,41 +89,26 @@ EXTRA_PATH_METADATA = {
     'static/favicon.ico': {'path': 'favicon.ico'},
 }
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
 PLUGIN_PATHS = ['/home/foxmask/Projects/foxmask.net/pelican-plugins']
 
 PLUGINS = ['sitemap', 'pelican-page-order', 'tag_cloud', 'github_activity', 'related_posts', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo', 'liquid_tags.include_code',
-           #'neighbors', 'github_activity', 'tipue_search']
            'neighbors', 'github_activity', 'tipue_search', 'i18n_subsites']
 
-# related_posts plugin - https://github.com/getpelican/pelican-plugins/tree/master/related_posts
-RELATED_POSTS_MAX = 5
-
-# Following items are often useful when publishing
+RELATED_POSTS_MAX = 8
 
 # for the plugin sitemap
 SITEMAP = {'format': 'xml'}
 
 DISQUS_SITENAME = "foxmasktriggerhappyeu"
 
-# pour le theme octopress
-#SIDEBAR_IMAGE = '/static/cactus.png'
-#SEARCH_BOX = True
-#DISPLAY_PAGES_ON_MENU = True
-#DISPLAY_CATEGORIES_ON_MENU = True
-#DISPLAY_FEEDS_ON_MENU = True
-
-CATEGORY_IN_SIDEBAR = False
+CATEGORY_IN_SIDEBAR = True
 
 
 FEED_DOMAIN = 'https://foxmask.net'
 FEED_ATOM = 'main.atom.xml'
 FEED_RSS = 'main.rss.xml'
 
-# https://github.com/getpelican/pelican-plugins/tree/master/github_activity
 GITHUB_ACTIVITY_FEED = 'https://github.com/foxmask.atom'
 GITHUB_ACTIVITY_MAX_ENTRIES = 10
 
