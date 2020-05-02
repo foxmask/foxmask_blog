@@ -25,7 +25,7 @@ Du [Python](https://www.python.org/) il retient tout ce qu'on peut imaginer grav
 
 J'ai mis mon grin de sel à droite à gauche, de la relecture chez [Sam & Max](http://sametmax.com) ou entre aide sur [indexerror.net](http://indexerror.net). Ces temps ci je suis [Joplin](https://joplinapp.org), où j'y ai mis quelques petits projets python :P 
 
-Mon dernier joujou en date est [Yeobeseyo](https://github.com/foxmask/yeobeseyo)
+Mon dernier joujou en date est [Yeoboseyo](https://github.com/foxmask/yeoboseyo)
 
 # Chess
 
