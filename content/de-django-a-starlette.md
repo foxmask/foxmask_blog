@@ -1,4 +1,3 @@
-```
 Title: De django à starlette
 Date: 2019-05-02 22:00
 Author: foxmask
@@ -421,4 +420,3 @@ on a une class HTTPEndPoint si on veut mais là pour la petitesse du projet je m
 
 <p>Voilou pour l'essentiel, si vous souhaitez comparer intégralement les 2 projets, au dossier/fichier pret, vous avez les liens sur github au dessus.</p>
 <p>Pour ma part je trouve starlette et ses amis, modulaires comme il faut. On dirait qu'on plug des pièces de tétris au fur et à mesure pour obtenir à la fin un projet costaud.</p></div>
-```
