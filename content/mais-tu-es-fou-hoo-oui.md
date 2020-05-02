@@ -79,4 +79,3 @@ De même une lettre ne se prononce pas pareil qu'elle soit au début ou la fin d
 <img alt="Anki Le Deck" src="https://raw.githubusercontent.com/foxmask/baeuda/master/anki_deck.png"></p>
 <p>5)
 <img alt="Anki Le Carte" src="https://raw.githubusercontent.com/foxmask/baeuda/master/anki_card.png"></p>
-            </div>
