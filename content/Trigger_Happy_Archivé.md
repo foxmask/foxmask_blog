@@ -1,4 +1,4 @@
-Title: Trigger Happy archivé
+Title: Trigger Happy archivé - Yeoboseyo !
 Date: 2020-05-01 22:00
 Author: foxmask
 Tags: Django, Starlette, Yeoboseyo
@@ -12,7 +12,7 @@ Voici le post de l'année ;)
 
 ## Bye Bye TriggerHappy
 
-Je viens de mettre en mode archivé le projet au 1300 etoiles et des poussieres [https://github.com/push-things/django-th](Trigger Happy).
+Je viens de mettre en mode archivé le projet au 1300 etoiles et des poussieres [Trigger Happy](https://github.com/push-things/django-th)
 
 En effet, je l'ai maintenu autant que j'ai pu, mais avec le temps : 
 
