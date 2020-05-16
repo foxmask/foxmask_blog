@@ -1,10 +1,10 @@
-# foxmask.net
+# foxmask
 My Blog with pelican using disqus and providing RSS/ATOM
 
 ## Installation
 
 ```shell
-virtualenv foxmask.net
+virtualenv foxmask
 cd $_
 source bin/activated
 git clone https://github.com/foxmask/foxmask.github.io
