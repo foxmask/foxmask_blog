@@ -6,7 +6,7 @@ AUTHOR = 'FoxMaSk'
 SITENAME = 'Le Free de la Passion'
 SITESUBTITLE = 'La passion de la liberté'
 
-SITEURL = 'https://foxmask.net'
+SITEURL = 'https://foxmask.github.io'
 TIMEZONE = 'Europe/Paris'
 
 THEME = '/home/foxmask/Projects/foxmask.net/pelican-themes/pelican-bootstrap3/'
@@ -69,16 +69,16 @@ PAGE_URL = 'pages/{slug}'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 LINKS = (
-         ('RSS', 'https://foxmask.net/feeds/all.rss.xml'),
-         ('Atom', 'https://foxmask.net/feeds/all.atom.xml'),
+         ('RSS', '/feeds/all.rss.xml'),
+         ('Atom', '/feeds/all.atom.xml'),
          )
 
 FREE_PROJECT = True
 
-ATOM = (('ATOM Python', 'https://foxmask.net/feeds/python.atom.xml'),
-       ('ATOM Django', 'https://foxmask.net/feeds/django.atom.xml'),)
-RSS = (('RSS Python', 'https://foxmask.net/feeds/python.rss.xml'),
-       ('RSS Django', 'https://foxmask.net/feeds/django.rss.xml'),)
+ATOM = (('ATOM Python', '/feeds/python.atom.xml'),
+       ('ATOM Django', '/feeds/django.atom.xml'),)
+RSS = (('RSS Python', '/feeds/python.rss.xml'),
+       ('RSS Django', '/feeds/django.rss.xml'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -105,7 +105,7 @@ DISQUS_SITENAME = "foxmasktriggerhappyeu"
 CATEGORY_IN_SIDEBAR = True
 
 
-FEED_DOMAIN = 'https://foxmask.net'
+FEED_DOMAIN = 'https://foxmask.github.io'
 FEED_ATOM = 'main.atom.xml'
 FEED_RSS = 'main.rss.xml'
 
