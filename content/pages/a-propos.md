@@ -21,11 +21,13 @@ Du [PHP](http://php.net/) il retient :
 * [CakePHP](http://cakephp.org/) en PHP4. Avec lequel je retentais de faire Puntal avec le framework.
 * Puis enfin l'excellentissime framework [Jelix](https://jelix.org/) en PHP5 (dont le mec fut core-developper) et tous les membres qui composaient la team. Avec ce dernier je produisis le [forum](https://jelix.org/forums/) du site du projet, puis le repository des applications faites avec le framework nommé [Booster](https://booster.jelix.org)
 
-Du [Python](https://www.python.org/) il retient tout ce qu'on peut imaginer gravitant autour du web et du devops. Genre au pif, [Django](https://www.djangoproject.com/), l'exceptionnel [DjangoRestFramework](http://www.django-rest-framework.org/), et [Ansible](http://ansible.com) / [Fabric](http://www.fabfile.org/), le magnifique [Starlette.io](https://starlette.io)
+Du [Python](https://www.python.org/) il retient tout ce qu'on peut imaginer gravitant autour du web et du devops. Genre au pif, [Django](https://www.djangoproject.com/), l'exceptionnel [DjangoRestFramework](http://www.django-rest-framework.org/), et [Ansible](http://ansible.com) , et le magnifique [Starlette.io](https://starlette.io)
 
-J'ai mis mon grin de sel à droite à gauche, de la relecture chez [Sam & Max](http://sametmax.com) ou entre aide sur [indexerror.net](http://indexerror.net). Ces temps ci je suis [Joplin](https://joplinapp.org), où j'y ai mis quelques petits projets python :P 
+J'ai mis mon grin de sel à droite à gauche, de la relecture chez [Sam & Max](http://sametmax.com) ou entre aide sur [indexerror.net](http://indexerror.net). Jusqu'à 2020 j'ai participé à [Joplin](https://joplinapp.org) avec moult projets périphériques en python.
 
-Mon dernier joujou en date est [Yeoboseyo](https://github.com/foxmask/yeoboseyo)
+Mes derniers joujous sont sur GitLab [ici](https://gitlab.com/annyong), notamment un reboot de [trigger happy](https://github.com/foxmask/django-th) en pure Starlette.io et VueJs : [Yeoboseyo](https://gitlab.com/annyong/yeoboseyo) et 
+
+[News - 뉴스-  Nyuseu](https://gitlab.com/annyong/nyuseu) (un lecteur de flux RSS en Django)
 
 # Chess
 
@@ -34,5 +36,5 @@ Parfois je pousse du buis tantôt blanc tantôt noir. Mon joueur préféré est 
 # Get in touch
 
 
-* irc : sur [Freenode](irc://irc.freenode.net/sametmax)
-* [@foxxmask](https://twitter.com/foxxmask) Twitter
+* irc : sur [irc.libera.chat](irc://irc.libera.chat/sametmax)
+* [@foxmask@framapiaf.org](https://framapiaf.org/foxxmask) Mastodon
