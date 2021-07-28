@@ -76,7 +76,7 @@ set limits {
 }
 ```
 
-you will need to change the default value when the `programOutput` will become to be large (with custom pograms for example)
+you will need to change the default value of each of them when the `programOutput` content will become larger (with custom programs for example)
 
 * sending mail
 
@@ -230,7 +230,7 @@ we check that a process matches the expected string + check if the port 8082 is 
 
 ```ini
 # check the PID of the appserver
-check process BKCFBHD_was with pidfile "/opt/IBM/WebSphere/AppServer/profiles/foxmask/logs/server1/server1.pid"
+check process WASINSTANCE with pidfile "/opt/IBM/WebSphere/AppServer/profiles/foxmask/logs/server1/server1.pid"
       if failed
       port 9093
       for 3 cycles
@@ -269,9 +269,9 @@ check host partner_server with address partner.company1.com
     alert joe.doe@company0.com
     alert jane.doe@company0.com
        with mail-format {
-            from: IT_Support@company.com
-            subject: [$HOME] partner.company1.com does not respond $DATE
-            message: The application at the URL https://check host partner_server with address partner.company1.com/GAMES/ is unavailable
+            from: IT_Support@company0.com
+            subject: [$HOST] partner.company1.com does not respond $DATE
+            message: The application at the URL https://partner.company1.com with address https://partner.company1.com/GAMES/ is unavailable
        }
     every "13 8-19 * * 1-5"
     group server
@@ -288,9 +288,9 @@ check host server101 with address server101
     alert joe.doe@company0.com
     alert jane.doe@company0.com
       with mail-format {
-           from: DL_CFTech@se.linedata.com
-           subject:  the server server101 server-tfsf-prdapp02 does not respond $DATE
-           message:  Ping has failed to server server101 $DATE
+           from: IT_Support@company0.com
+           subject: [$HOST] partner.company1.com does not respond $DATE
+           message: Ping has failed to server server101 $DATE
       }
    every "0,5,10,15,20,25,30,35,40,45,50,55 8-19 * * *"
    group server
