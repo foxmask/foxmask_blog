@@ -6,7 +6,7 @@ AUTHOR = 'FoxMaSk'
 SITENAME = 'Le Free de la Passion'
 SITESUBTITLE = 'La passion de la liberté'
 
-SITEURL = 'https://foxmask.github.io'
+SITEURL = 'https://foxmask.org'
 TIMEZONE = 'Europe/Paris'
 
 THEME = '/home/foxmask/Projects/foxmask.net/pelican-themes/pelican-bootstrap3/'
@@ -105,7 +105,7 @@ DISQUS_SITENAME = "foxmasktriggerhappyeu"
 CATEGORY_IN_SIDEBAR = True
 
 
-FEED_DOMAIN = 'https://foxmask.github.io'
+FEED_DOMAIN = 'https://foxmask.org'
 FEED_ATOM = 'main.atom.xml'
 FEED_RSS = 'main.rss.xml'
 
