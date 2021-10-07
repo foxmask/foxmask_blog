@@ -1,6 +1,6 @@
 title: Say Thanks
 date: 2016-11-26 16:00
-category: News
+category: General
 slug: say-thanks
 status: Published
 

@@ -1,7 +1,7 @@
 Title: Entrevue en toute simplicité - Debnet
 Date: 2015-08-03 10:30
 Author: foxmask
-Category: Entrevues
+Category: Techno
 Tags: Django, python
 Slug: entrevue-en-tout-simplicite-debnet
 Status: published

@@ -1,8 +1,8 @@
 Title: Home Sweet Home
 Date: 2021-09-27
 Author: foxmask
-Category: Web
-Tags: hosting
+Category: Korea
+Tags: hosting, Korea
 Slug: home-sweet-home
 Status: published
 
@@ -22,7 +22,7 @@ Gageons que ce nouvel hosting ne soit pas trop effrayant  ^_*
 
 ## Du dev 
 
-un peu de python par ci https://framagit.org/annyong/nyuseu par là https://multiboard.foxmask.org
+un peu de python par ci https://framagit.org/annyong/nyuseu par là https://mb.foxmask.org/mb
 
 
 
@@ -56,8 +56,8 @@ On se leve en France pour bosser un peu, on va manger à midi à l'autre bout de
 
 Mais bien sûr tout cela sans les effets secondaires de "La Mouche"
 
-![](https://image.tmdb.org/t/p/original/jK3bA9r30jhtCRSwxZNt8Z6zE4A.jpg)
+![la mouche](https://image.tmdb.org/t/p/original/jK3bA9r30jhtCRSwxZNt8Z6zE4A.jpg)
 
 (les etapes de transformation du telepod:))
 
-![](http://repliquesdefilms.fr/user/image/filmPictureList/filmPictureList_993008.jpg)
+![la mouche se transforme](http://repliquesdefilms.fr/user/image/filmPictureList/filmPictureList_993008.jpg)

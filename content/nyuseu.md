@@ -46,7 +46,7 @@ Puis Wallabag c'est en PHP :P
 
 Du coup j'ai fait le bidule en Python3.8 / Django3.1 et Bootsrap4, tranquillou. Ni plus ni moins.
 
-![](https://raw.githubusercontent.com/foxmask/nyuseu/master/nyuseu/doc/screenshot.png)
+![Nyuseu : News en Coreen, un lecteur de news homemade](https://raw.githubusercontent.com/foxmask/nyuseu/master/nyuseu/doc/screenshot.png)
 
 C'est "con comme la lune" ;)
 

@@ -26,7 +26,7 @@ CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-FEED_MAX_ITEMS = 10
+FEED_MAX_ITEMS = 100
 
 # theme bootstrap https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
 BANNER_SUBTITLE = 'La passion de la liberté'
@@ -39,11 +39,6 @@ DISPLAY_ARTICLE_INFO_ON_INDEX = True
 ARCHIVES_SAVE_AS = 'archives.html'
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
-
-GITHUB_USER = "foxmask"
-GITHUB_REPO_COUNT = 5
-GITHUB_SKIP_FORK = False
-GITHUB_SHOW_USER_LINK = False
 
 DISPLAY_TAGS_INLINE = True
 TAG_CLOUD_MAX_ITEMS = 20
@@ -69,16 +64,22 @@ PAGE_URL = 'pages/{slug}'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 LINKS = (
-         ('RSS', '/feeds/all.rss.xml'),
-         ('Atom', '/feeds/all.atom.xml'),
-         )
+         ('FoxMaSk RSS', '/feeds/all.rss.xml'),
+         ('Python', 'https://python.org/'),
+         ('PyConFr', 'https://pycon.fr/'),
+         ('PyConKr', 'https://pycon.kr/'),
+         ('Django', 'https://www.djangoproject.com/'),
+         ('DRF', 'https://www.django-rest-framework.org/'),
+         ('Ansible', 'https://www.ansible.com/'),
+         ('Centre Culturel Coréen', 'https://www.coree-culture.org/?lang=fr'),
+)
 
 FREE_PROJECT = True
 
-ATOM = (('ATOM Python', '/feeds/python.atom.xml'),
-       ('ATOM Django', '/feeds/django.atom.xml'),)
 RSS = (('RSS Python', '/feeds/python.rss.xml'),
-       ('RSS Django', '/feeds/django.rss.xml'),)
+       ('RSS Django', '/feeds/django.rss.xml'),
+       ('RSS Korea', '/feeds/korea.rss.xml'),
+      )
 
 DEFAULT_PAGINATION = 10
 
@@ -91,26 +92,20 @@ EXTRA_PATH_METADATA = {
 
 PLUGIN_PATHS = ['/home/foxmask/Projects/foxmask.net/pelican-plugins']
 
-PLUGINS = ['sitemap', 'pelican-page-order', 'tag_cloud', 'github_activity', 'related_posts', 'liquid_tags.img', 'liquid_tags.video',
+PLUGINS = ['sitemap', 'pelican-page-order', 'tag_cloud',
+           'related_posts', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo', 'liquid_tags.include_code',
-           'neighbors', 'github_activity', 'tipue_search', 'i18n_subsites']
+           'neighbors', 'tipue_search', 'i18n_subsites']
 
 RELATED_POSTS_MAX = 8
 
-# for the plugin sitemap
 SITEMAP = {'format': 'xml'}
 
-DISQUS_SITENAME = "foxmasktriggerhappyeu"
-
 CATEGORY_IN_SIDEBAR = True
-
 
 FEED_DOMAIN = 'https://foxmask.org'
 FEED_ATOM = 'main.atom.xml'
 FEED_RSS = 'main.rss.xml'
-
-GITHUB_ACTIVITY_FEED = 'https://github.com/foxmask.atom'
-GITHUB_ACTIVITY_MAX_ENTRIES = 10
 
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}

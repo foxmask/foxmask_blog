@@ -1,7 +1,7 @@
 Title: Entrevue en toute simplicité - Sam et Max
 Date: 2015-08-31 10:45
 Author: foxmask
-Category: Entrevues
+Category: Techno
 Tags: python
 Slug: entrevue-en-toute-simplicite-sam-max
 Status: published

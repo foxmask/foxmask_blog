@@ -1,7 +1,7 @@
 Title: Entrevue en toute simplicité - Spout
 Date: 2015-07-20 10:30
 Author: foxmask
-Category: Entrevues
+Category: Techno
 Tags: Django, python
 Slug: entrevue-en-toute-simplicite-spout
 Status: published

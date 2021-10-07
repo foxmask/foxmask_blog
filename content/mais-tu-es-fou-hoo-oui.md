@@ -1,7 +1,7 @@
 Title: Mais tu es fou ? Hooo Oui 
 Date: 2019-04-24 22:00
 Author: foxmask
-Tags: Python, Anki
+Tags: Python, Anki, Korea
 Category: Techno
 Slug: mais-tu-es-fou-hoo-oui
 Status: published

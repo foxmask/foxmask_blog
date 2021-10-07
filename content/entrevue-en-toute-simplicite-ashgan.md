@@ -1,7 +1,7 @@
 Title: Entrevue en toute simplicité - Ashgan
 Date: 2015-07-27 09:45
 Author: foxmask
-Category: Entrevues
+Category: Techno
 Tags: flask, python
 Slug: entrevue-en-toute-simplicite-ashgan
 Status: published
