@@ -45,7 +45,7 @@ A présent, un petit click sur le picto "reload" et voila l'article entier qui s
 
 ![Nyuseu main page](https://framagit.org/annyong/nyuseu/-/raw/master/nyuseu/doc/screenshot.png)
 
-
+[Projet Nyuseu](https://framagit.org/annyong/nyuseu/)
 
 ## Yeoboseyo 
 
@@ -73,6 +73,7 @@ Ce appli, minuscule est faite avec VueJS pour le front et [Starlette](https://st
 
 ![Yeoboseyo main page](https://framagit.org/annyong/yeoboseyo/-/raw/master/doc/Yeoboseyo_list.png)
 
+[Projet Yeoboseyo](https://framagit.org/annyong/yeoboseyo/)
 
 ## Et Aussi
 
