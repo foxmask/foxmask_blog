@@ -1,3 +1,10 @@
 Markdown==3.2.1
 feedparser==5.2.1
 pelican==4.2.0
+pelican-sitemap==1.0.2
+pelican-tipue-search==0.0.0
+pelican-liquid-tags==1.0.4
+relican-tag-cloud
+pelican-related-posts
+pelican-neighbors
+pelican-i18n-subsites

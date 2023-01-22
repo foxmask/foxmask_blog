@@ -93,9 +93,7 @@ EXTRA_PATH_METADATA = {
 PLUGIN_PATHS = ['/home/foxmask/Projects/foxmask.net/pelican-plugins']
 
 PLUGINS = ['sitemap', 'pelican-page-order', 'tag_cloud',
-           'related_posts', 'liquid_tags.img', 'liquid_tags.video',
-           'liquid_tags.youtube', 'liquid_tags.vimeo', 'liquid_tags.include_code',
-           'neighbors', 'tipue_search', 'i18n_subsites']
+           'related_posts', 'liquid_tags', 'neighbors', 'tipue_search', 'i18n_subsites']
 
 RELATED_POSTS_MAX = 8
 
