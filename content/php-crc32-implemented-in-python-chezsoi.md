@@ -1,13 +1,9 @@
 Title: PHP crc32 implemented in Python - chezsoi
 Date: 2022-01-18 19:23:23+00:00
 Author: FoxMaSk 
-
-tags: crc32,php,python
-
+Category: link
+Tags: crc32, php, python
 Status: published
-
-
-
 
 
 # PHP crc32 implemented in Python - chezsoi

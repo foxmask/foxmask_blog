@@ -1,13 +1,9 @@
 Title: Enregistrer un tweet ou un toot dans ShaarPy
 Date: 2022-02-05 17:31:21.707987+00:00
 Author: FoxMaSk 
-
-tags: tips,shaarpy,twitter,mastodon
-
+Category: link
+Tags: tips, shaarpy, twitter, mastodon
 Status: published
-
-
-
 
 
 # Enregistrer un tweet ou un toot dans ShaarPy

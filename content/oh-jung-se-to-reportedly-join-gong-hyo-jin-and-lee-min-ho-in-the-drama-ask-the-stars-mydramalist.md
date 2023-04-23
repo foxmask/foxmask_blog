@@ -1,9 +1,8 @@
 Title: Oh Jung Se to reportedly join Gong Hyo Jin and Lee Min Ho in the drama &#34;Ask The Stars&#34; - mydramalist
 Date: 2022-01-26 18:32:03.705101+00:00
 Author: FoxMaSk 
-
-tags: Corée,drama
-
+Category: link
+Tags: Corée, drama
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Oh Jung Se to reportedly join Gong Hyo Jin and Lee Min Ho in the drama &#34;Ask The Stars&#34; - mydramalist](https://mydramalist.com/article/oh-jung-se-to-reportedly-join-gong-hyo-jin-and-lee-min-ho-in-the-drama-ask-the-stars)
 
-&lt;div&gt;
+
 
 A drama insider revealed on January 26th, that Oh Jung Se will be
 working with Gong Hyo Jin and [Lee Min
@@ -27,4 +26,4 @@ story of a space tourist and an astronaut. 
 
 Just like Oh Jung Se, Gong Hyo and Lee Mi Ho are still in di...
 
-&lt;/div&gt;
+

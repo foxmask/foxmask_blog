@@ -1,9 +1,8 @@
 Title: Refactoring Boston - nedbatchelder
 Date: 2022-01-26 19:07:04.658787+00:00
 Author: FoxMaSk 
-
-tags: python
-
+Tags: python
+Category: link
 Status: published
 
 
@@ -14,7 +13,6 @@ Status: published
 
 [Refactoring Boston - nedbatchelder](https://nedbatchelder.com/blog/202201/refactoring_boston.html)
 
-&lt;div&gt;
 
 There&#39;s a street in Boston called Broadway, but it doesn&#39;t look like
 what you&#39;d expect. It&#39;s a quiet side street, about 200 feet long. This
@@ -25,5 +23,3 @@ out, the better question is, how did Broadway become such a tiny thing?
 
 Like many cities, and probably more than most cities, Boston has
 undergone enormo...
-
-&lt;/div&gt;

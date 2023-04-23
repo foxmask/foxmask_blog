@@ -1,9 +1,8 @@
 Title: Ubuntu 22.04 LTS (Jammy Jellyfish) - ubuntu
 Date: 2022-04-25 07:16:34.807888+00:00
 Author: FoxMaSk 
-
-tags: ubuntu
-
+Category: link
+Tags: ubuntu
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Ubuntu 22.04 LTS (Jammy Jellyfish) - ubuntu](https://releases.ubuntu.com/releases/22.04/)
 
-&lt;div&gt;
+
 
 Select an image
 ---------------
@@ -32,4 +31,4 @@ at least 2048MiB of RAM to install from this image.
 
 Choose t...
 
-&lt;/div&gt;
+

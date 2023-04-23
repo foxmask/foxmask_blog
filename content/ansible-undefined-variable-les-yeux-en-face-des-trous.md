@@ -1,11 +1,9 @@
 Title: Ansible undefined variable : les yeux en face des trous
 Date: 2022-05-06 07:24:15.561953+00:00
 Author: FoxMaSk 
-
-tags: ansible
-
+Tags: ansible
 Status: published
-
+Category: link
 
 
 
@@ -65,7 +63,7 @@ dans le playbook.yml on a
       ansible.builtin.command: date +%Y%m%d%H%M
       register: date
       check_mode: no
-      tags:
+      Tags:
         - backup
         - lsq
 
@@ -78,7 +76,7 @@ dans le playbook.yml on a
         wars: &#34;{{ lsq.wars }}&#34;
         tomcat_root: &#34;{{ tomcat_home }}&#34;
         today: &#34;{{ date.stdout }}&#34;
-      tags:
+      Tags:
         - backup
         - lsq
 

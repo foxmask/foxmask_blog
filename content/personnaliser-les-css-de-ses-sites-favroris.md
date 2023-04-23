@@ -1,9 +1,8 @@
 Title: Personnaliser les CSS de ses sites favroris
 Date: 2022-05-07 08:52:54.452649+00:00
 Author: FoxMaSk 
-
-tags: css,mastodon
-
+Category: link
+Tags: css, mastodon
 Status: published
 
 

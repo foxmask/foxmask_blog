@@ -1,9 +1,8 @@
 Title: hacker news avec django
 Date: 2022-02-08 14:56:47.236830+00:00
 Author: FoxMaSk 
-
-tags: Django,python,hackernews
-
+Tags: Django, python, hackernews
+Category: link
 Status: published
 
 

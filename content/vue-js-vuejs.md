@@ -1,11 +1,9 @@
 Title: Vue.js - vuejs
 Date: 2022-01-20 12:53:48.242425+00:00
 Author: FoxMaSk 
-
-tags: javascript
-
+Tags: javascript
+Category: link
 Status: published
-
 
 
 
@@ -14,12 +12,9 @@ Status: published
 
 [Vue.js - vuejs](https://vuejs.org/)
 
-&lt;div&gt;
 
 Approachable
 ------------
 
 Already know HTML, CSS and JavaScript? Read the guide and start building
 things in no time!
-
-&lt;/div&gt;

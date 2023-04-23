@@ -1,20 +1,15 @@
 Title: Jason Self: &#34;This is depressing to think about nonfree firmwar…&#34; - bobcall
 Date: 2022-02-07 16:19:54.171368+00:00
 Author: FoxMaSk 
-
-tags: linux,nonfree
-
+Category: link
+Tags: linux, nonfree
 Status: published
-
-
-
 
 
 # Jason Self: &#34;This is depressing to think about nonfree firmwar…&#34; - bobcall
 
 [Jason Self: &#34;This is depressing to think about nonfree firmwar…&#34; - bobcall](https://social.bobcall.me/@jxself/107752668551030433)
 
-&lt;div&gt;
 
 This is depressing to think about nonfree firmware eating the world:
 
@@ -24,5 +19,3 @@ The \&#34;source\&#34; of nonfree firmware: Over 700MB and growing so it\&#39;s 
 good percentage of the size of the ENTIRE KERNEL ITSELF.
 
 Free firmware with actual source code? 24.5MB and not growing
-
-&lt;/div&gt;

@@ -1,13 +1,9 @@
 Title: Ubuntu 22.04 casse le support du Hangul en beauté sans rien dire
 Date: 2022-05-16 18:40:45.275591+00:00
 Author: FoxMaSk 
-
-tags: ubuntu
-
+Category: link
+Tags: ubuntu
 Status: published
-
-
-
 
 
 # Ubuntu 22.04 casse le support du Hangul en beauté sans rien dire

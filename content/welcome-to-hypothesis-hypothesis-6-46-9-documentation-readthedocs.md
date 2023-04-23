@@ -1,20 +1,15 @@
 Title: Welcome to Hypothesis! — Hypothesis 6.46.9 documentation - readthedocs
 Date: 2022-05-27 21:49:28.633545+00:00
 Author: FoxMaSk 
-
-tags: python
-
+Tags: python
 Status: published
-
-
-
+Category: link
 
 
 # Welcome to Hypothesis! — Hypothesis 6.46.9 documentation - readthedocs
 
 [Welcome to Hypothesis! — Hypothesis 6.46.9 documentation - readthedocs](https://hypothesis.readthedocs.io/en/latest/index.html)
 
-&lt;div&gt;
 
 Welcome to Hypothesis![¶](#welcome-to-hypothesis &#34;Permalink to this headline&#34;)
 ===========================================================================================
@@ -28,4 +23,3 @@ existing test suite.
 It works by letting you write tests that assert that something should be
 true for every case, not just the ones you happen to t...
 
-&lt;/div&gt;

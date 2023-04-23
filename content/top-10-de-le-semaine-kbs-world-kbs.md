@@ -1,13 +1,9 @@
 Title: TOP 10 de le semaine KBS WORLD - kbs
 Date: 2022-02-05 17:08:39.890592+00:00
 Author: FoxMaSk 
-
-tags: corée,musique,음악,한국
-
+Tags: corée, musique, 음악, 한국
+Category: link
 Status: published
-
-
-
 
 
 # TOP 10 de le semaine KBS WORLD - kbs

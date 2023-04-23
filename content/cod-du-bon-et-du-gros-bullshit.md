@@ -1,9 +1,8 @@
 Title: COD : du bon et du gros bullshit
 Date: 2022-02-25 13:03:53.214741+00:00
 Author: FoxMaSk 
-
-tags: COD
-
+Tags: COD
+Category: link
 Status: published
 
 

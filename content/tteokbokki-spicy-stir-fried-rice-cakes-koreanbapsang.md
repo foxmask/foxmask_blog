@@ -1,9 +1,8 @@
 Title: Tteokbokki (Spicy Stir-fried Rice Cakes) - koreanbapsang
 Date: 2022-02-05 16:43:07.034823+00:00
 Author: FoxMaSk 
-
-tags: corée,recette,한국,Korea
-
+Category: link
+Tags: corée, recette, 한국, Korea
 Status: published
 
 
@@ -14,7 +13,7 @@ https://www.youtube.com/embed/nY-ts6QFnc4
 
 [Tteokbokki (Spicy Stir-fried Rice Cakes) - koreanbapsang](https://www.koreanbapsang.com/tteokbokki-spicy-stir-fried-rice-cakes/)
 
-&lt;div&gt;
+
 
 This post contains affiliate links. I earn a commission if you make
 purchases through those links. See my disclosure policy.
@@ -32,4 +31,3 @@ What is tteokbokki?
 Tteokbokki (also spelled ddukbokki, ddeokbokki, dukbokki or topokki),
 떡볶이, ...
 
-&lt;/div&gt;

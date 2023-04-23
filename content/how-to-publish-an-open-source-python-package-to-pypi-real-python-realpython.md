@@ -1,9 +1,8 @@
 Title: How to Publish an Open-Source Python Package to PyPI – Real Python - realpython
 Date: 2022-05-27 21:51:56.829253+00:00
 Author: FoxMaSk 
-
-tags: python
-
+Category: link
+Tags: python
 Status: published
 
 

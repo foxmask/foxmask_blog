@@ -1,9 +1,8 @@
 Title: Together, We Supported Python! - jetbrains
 Date: 2022-01-26 19:23:16.779251+00:00
 Author: FoxMaSk 
-
-tags: pycharm,python,foss
-
+Category: link
+Tags: pycharm, python, foss
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Together, We Supported Python! - jetbrains](https://blog.jetbrains.com/pycharm/2022/01/psf-campaign-results-2021/)
 
-&lt;div&gt;
+
 
 [News](/pycharm/category/news/){.tag}
 
@@ -30,4 +29,4 @@ Professional Edition license purchased with the discount code
 
 The Python Software Foundation is the main organization behind the...
 
-&lt;/div&gt;
+

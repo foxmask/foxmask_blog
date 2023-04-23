@@ -1,13 +1,9 @@
 Title: Acquisitions à tout-va: l’appétit insatiable des géants de la big tech
 Date: 2022-02-07 12:49:50.435266+00:00
 Author: FoxMaSk 
-
-tags: GAFAM
-
+Category: link
+Tags: GAFAM
 Status: published
-
-
-
 
 
 # Acquisitions à tout-va: l’appétit insatiable des géants de la big tech

@@ -1,9 +1,8 @@
 Title: Utiliser pip derrière un proxy - webdevdesigner
 Date: 2022-02-03 13:14:54.486563+00:00
 Author: FoxMaSk 
-
-tags: pip,python,proxy
-
+Tags: pip, python, proxy
+Category: link
 Status: published
 
 
@@ -14,7 +13,6 @@ Status: published
 
 [Utiliser pip derrière un proxy - webdevdesigner](https://webdevdesigner.com/q/using-pip-behind-a-proxy-7267/)
 
-&lt;div&gt;
 
 j\&#39;essaie d\&#39;utiliser [pip](https://over.wiki/pip/) derrière un
 [proxy](https://over.wiki/proxy/) au travail.
@@ -26,5 +24,3 @@ installé et configuré par cet autre post , mais l\&#39;exécution
 
 j\&#39;ai aussi essayé `pip install -–proxy=user:pass@localhost:3128` (le
 port CNTLM par défaut...
-
-&lt;/div&gt;

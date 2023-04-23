@@ -1,9 +1,8 @@
 Title: Le site web de l&#39;Association Francophone Python - afpy
 Date: 2022-01-20 12:46:26.005678+00:00
 Author: FoxMaSk 
-
-tags: python
-
+Category: link
+Tags: python
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Le site web de l&#39;Association Francophone Python - afpy](https://www.afpy.org/)
 
-&lt;div&gt;
+
 
 AFPy
 ----
@@ -37,4 +36,4 @@ Actualités
 
 22/10/2021 TL;DR; Sur BBB le 27 octo...
 
-&lt;/div&gt;
+

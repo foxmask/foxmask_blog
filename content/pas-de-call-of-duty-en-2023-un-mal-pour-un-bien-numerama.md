@@ -1,9 +1,8 @@
 Title: Pas de Call of Duty en 2023 ? Un mal pour un bien - numerama
 Date: 2022-02-25 06:00:22.269862+00:00
 Author: FoxMaSk 
-
-tags: COD
-
+Category: link
+Tags: COD
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Pas de Call of Duty en 2023 ? Un mal pour un bien - numerama](https://www.numerama.com/pop-culture/863737-pas-de-call-of-duty-en-2023-un-mal-pour-un-bien.html)
 
-&lt;div&gt;
+
 
 Selon Bloomberg, Activision ne lancera pas un nouvel épisode de Call of
 Duty en 2023. La saga phare n&#39;a jamais loupé un rendez-vous annuel
@@ -25,4 +24,4 @@ leur agenda pour ne pas manquer la sortie de chaque nouvel épisode,
 commercialisé aux alentours du mois de novembre. Ils n&#39;auront sans doute
 pas à le faire en 2023, à en cr...
 
-&lt;/div&gt;
+

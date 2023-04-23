@@ -1,9 +1,8 @@
 Title: Note from 27 January 2022 - nicolas-hoizey
 Date: 2022-01-28 07:03:05.952497+00:00
 Author: FoxMaSk 
-
-tags: humour
-
+Category: link
+Tags: humour
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Note from 27 January 2022 - nicolas-hoizey](https://nicolas-hoizey.com/notes/2022/01/27/1/)
 
-&lt;div&gt;
+
 
 Me: I would use a link with an image:
 
@@ -26,4 +25,4 @@ Twitter:
 
 🤷‍♂️
 
-&lt;/div&gt;
+

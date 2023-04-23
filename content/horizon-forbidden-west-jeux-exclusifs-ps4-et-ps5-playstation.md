@@ -1,9 +1,8 @@
 Title: Horizon Forbidden West - Jeux exclusifs PS4 et PS5 - playstation
 Date: 2022-02-13 21:24:09.225690+00:00
 Author: FoxMaSk 
-
-tags: HorizonZeroDawn,games,HorizonForbiddenWest
-
+Tags: HorizonZeroDawn, games, HorizonForbiddenWest
+Category: link
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Horizon Forbidden West - Jeux exclusifs PS4 et PS5 - playstation](https://www.playstation.com/fr-fr/games/horizon-forbidden-west/)
 
-&lt;div&gt;
+
 
 Plateforme::   PS4, PS5
 
@@ -43,4 +42,3 @@ Rejoignez cette cause à travers le jeu mais aussi désormais grâce à la Forê
 Du 18 au 28 février, jouez à Horizon Forbidden West et déboquez le trophée &#34;Couards Atteints&#34;. Partagez-le sur Twitter avec le #LaForêtdAloy et la forêt commencera à prendre vie grâce à vous.
 
 Un arbre sera planté dans la Forêt d&#39;Aloy située dans les Vosges, tous les cinq trophées débloqués. Gardez un oeil sur nos réseaux sociaux pour voir pousser la forêt.
-&lt;/div&gt;

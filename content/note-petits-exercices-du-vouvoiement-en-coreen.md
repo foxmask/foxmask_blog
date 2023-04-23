@@ -1,13 +1,9 @@
 Title: Note:Petits exercices du vouvoiement en coréen
 Date: 2022-01-21 11:17:39.668977+00:00
 Author: FoxMaSk 
-
-tags: Corée,한국어
-
+Category: link
+Tags: Corée, 한국어
 Status: published
-
-
-
 
 
 # Note:Petits exercices du vouvoiement en coréen

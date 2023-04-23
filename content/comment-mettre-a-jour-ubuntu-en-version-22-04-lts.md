@@ -1,9 +1,8 @@
 Title: Comment mettre à jour Ubuntu en  version 22.04 LTS
 Date: 2022-04-25 07:48:29.365704+00:00
 Author: FoxMaSk 
-
-tags: ubuntu
-
+Category: link
+Tags: ubuntu
 Status: published
 
 

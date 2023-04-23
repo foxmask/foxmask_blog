@@ -1,9 +1,8 @@
 Title: Django documentation - djangoproject
 Date: 2022-01-20 12:46:59.217946+00:00
 Author: FoxMaSk 
-
-tags: python,django
-
+Category: link
+Tags: python, django
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Django documentation - djangoproject](https://docs.djangoproject.com/)
 
-&lt;div&gt;
+
 
 Django documentation[](#django-documentation &#34;Permalink to this headline&#34;)
 ========================================================================================
@@ -35,4 +34,3 @@ organized will help you know where to look for certain things:
     application. Start here if you&#39;re new to Django or web application
     development. Also look at ...
 
-&lt;/div&gt;

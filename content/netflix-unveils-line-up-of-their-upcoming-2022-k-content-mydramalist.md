@@ -1,9 +1,8 @@
 Title: Netflix unveils line-up of their upcoming 2022 K-Content! - mydramalist
 Date: 2022-01-19 08:31:04+00:00
 Author: FoxMaSk 
-
-tags: Netflix
-
+Category: link
+Tags: Netflix
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Netflix unveils line-up of their upcoming 2022 K-Content! - mydramalist](https://mydramalist.com/article/netflix-unveils-line-up-of-their-upcoming-2022-k-content)
 
-&lt;div&gt;
+
 
 **Starring:** [Chae Soo
 Bin](https://mydramalist.com/people/9225-chae-soo-bin), [Choi Min
@@ -26,4 +25,3 @@ of four young men and women who have thrown themselves into the fashion
 industry. It is a realistic romance drama about the daily lives of
 modern men and women who live in the city and follow a single life.
 
-&lt;/div&gt;

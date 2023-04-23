@@ -1,13 +1,9 @@
 Title: koreatimes
 Date: 2022-02-05 17:14:06.930745+00:00
 Author: FoxMaSk 
-
-tags: news,corée,한국,Korea
-
+Category: link
+Tags: news, corée, 한국, Korea
 Status: published
-
-
-
 
 
 # koreatimes

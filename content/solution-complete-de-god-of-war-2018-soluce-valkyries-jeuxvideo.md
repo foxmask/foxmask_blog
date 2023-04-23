@@ -1,9 +1,8 @@
 Title: Solution complète de God of War (2018), soluce, valkyries - jeuxvideo
 Date: 2022-01-20 12:50:42.425426+00:00
 Author: FoxMaSk 
-
-tags: HorizonZeroDawn,games
-
+Category: link
+Tags: HorizonZeroDawn, games
 Status: published
 
 

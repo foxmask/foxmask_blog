@@ -1,9 +1,8 @@
 Title: copier - readthedocs
 Date: 2022-03-17 06:45:56.980609+00:00
 Author: FoxMaSk 
-
-tags: python
-
+Tags: python
+Category: link
 Status: published
 
 
@@ -13,8 +12,6 @@ Status: published
 # copier - readthedocs
 
 [copier - readthedocs](https://copier.readthedocs.io/en/stable/)
-
-&lt;div&gt;
 
 [](https://github.com/copier-org/copier/edit/master/docs/index.md &#34;Edit this page&#34;)
 
@@ -35,5 +32,3 @@ A library for rendering project templates.
 
 1.  Install Python 3.6.1 or newer (3.8 or newer if you\&#39;re on Windows).
 2.  Install Git 2.24 or n...
-
-&lt;/div&gt;

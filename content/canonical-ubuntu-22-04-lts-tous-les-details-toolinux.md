@@ -1,20 +1,15 @@
 Title: Canonical Ubuntu 22.04 LTS : tous les détails - toolinux
 Date: 2022-04-25 07:17:00.267500+00:00
 Author: FoxMaSk 
-
-tags: ubuntu
-
+Tags: ubuntu
 Status: published
-
-
-
+Category: link
 
 
 # Canonical Ubuntu 22.04 LTS : tous les détails - toolinux
 
 [Canonical Ubuntu 22.04 LTS : tous les détails - toolinux](https://www.toolinux.com/?canonical-ubuntu-22-04-lts-tous-les-details)
 
-&lt;div&gt;
 
 **Nous vous l&#39;annoncions mercredi dernier. La dernière version LTS du
 système d&#39;exploitation Ubuntu 22.04 est disponible depuis quelques
@@ -25,5 +20,3 @@ importante.**
 
 Dans son communiqué officiel, Canonical vante les mérite de son système
 d&#39;exploitation pour les entreprises et les institutio...
-
-&lt;/div&gt;

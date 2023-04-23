@@ -1,12 +1,9 @@
 Title: https://www.cyberciti.biz/
 Date: 2022-01-20 13:30:56.665289+00:00
 Author: FoxMaSk 
-
-tags: linux,astuces,cyberciti
-
+Category: link
+Tags: linux, astuces, cyberciti
 Status: published
-
-
 
 
 

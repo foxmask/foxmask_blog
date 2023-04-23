@@ -1,13 +1,9 @@
 Title: @KoreanTravel - twitter
 Date: 2022-02-05 17:23:45.246342+00:00
 Author: FoxMaSk 
-
-tags: corée,Busan,부산,한국
-
+Tags: corée, Busan, 부산, 한국
 Status: published
-
-
-
+Category: link
 
 
 # @KoreanTravel - twitter

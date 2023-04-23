@@ -3,7 +3,7 @@ Date: 2013-06-21 23:15
 Author: foxmask
 Category: Techno
 Tags: Django, python, TriggerHappy
-Slug: djngo-trigger-happy-0-3
+Slug: django-trigger-happy-0-3
 Status: published
 
 Hey !  

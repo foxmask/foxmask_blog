@@ -1,18 +1,15 @@
 Title: Younha Dark Cloud / 먹구름
 Date: 2022-02-12 15:30:10.073212+00:00
-Author: FoxMaSk 
-
+Author: FoxMaSk
 Status: published
-
-
-
+Category: link
 
 
 # Younha Dark Cloud / 먹구름
 
 [Younha Dark Cloud / 먹구름](https://www.klyricsforyou.com/2020/01/younha-dark-cloud-lyrics.html)
 
-&lt;div&gt;
+
 
 **Artist: Younha**\
 **Song: 먹구름 (Dark Cloud)(English Translation)**\
@@ -171,4 +168,3 @@ Status: published
 
  I miss you a lot
 
-&lt;/div&gt;

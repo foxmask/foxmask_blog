@@ -1,11 +1,9 @@
 Title: YouTube : publication de 10 vidéos sur les patrimoines culturels coréens comparés à leurs équivalents étrangers - kbs
 Date: 2022-01-19 19:10:47+00:00
 Author: FoxMaSk 
-
-tags: corée
-
+Tags: corée
 Status: published
-
+Category: link
 
 ![http://worldimg.kbs.co.kr/src/images/news/202201/220119125934_7.jpg](http://worldimg.kbs.co.kr/src/images/news/202201/220119125934_7.jpg)
 
@@ -14,7 +12,7 @@ Status: published
 
 [YouTube : publication de 10 vidéos sur les patrimoines culturels coréens comparés à leurs équivalents étrangers - kbs](http://world.kbs.co.kr/service/news_view.htm?lang=f&amp;Seq_Code=76623)
 
-&lt;div&gt;
+
 
 Photo : YONHAP News
 
@@ -29,4 +27,3 @@ activités en ligne.\
 Par exemple, on explique les points de divergence et de convergence
 entre le pala...
 
-&lt;/div&gt;

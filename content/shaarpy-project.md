@@ -1,20 +1,16 @@
 Title: ShaarPy Project
 Date: 2022-01-20 13:00:00+00:00
 Author: FoxMaSk 
-
-tags: ShaarPy,documentation,aide,python,project,opensource
-
+Category: link
+Tags: ShaarPy, documentation, aide, python, project, opensource
 Status: published
-
-
-
 
 
 # ShaarPy Project
 
-[ShaarPy Project](None)
+[ShaarPy Project](https://git.afpy.org/foxmask/shaarpy)
 
-### [ShaarPy](https://framagit.org/foxmask/shaarpy)
+### [ShaarPy](https://git.afpy.org/foxmask/shaarpy)
 
 **Share Your Thoughts, Links, Ideas, Notes**
 
@@ -31,18 +27,18 @@ This one is made in [Python](https://www.python.org)3.10 and [Django](https://ww
 
 ##### Links
 - Drop a URL and ShaarPy will grab the article page with **image** and **video** if the source website provides ones
-&lt;a href=&#34;https://framagit.org/foxmask/shaarpy/-/raw/main/docs/shaarpy_article.png&#34;&gt;&lt;img src=&#34;https://framagit.org/foxmask/shaarpy/-/raw/main/docs/shaarpy_article.png&#34; alt=&#34;article with image&#34; width=&#34;400&#34;/&gt;&lt;/a&gt;
+&lt;a href=&#34;https://git.afpy.org/foxmask/shaarpy/raw/main/docs/shaarpy_article.png&#34;&gt;&lt;img src=&#34;https://framagit.org/foxmask/shaarpy/-/raw/main/docs/shaarpy_article.png&#34; alt=&#34;article with image&#34; width=&#34;400&#34;/&gt;&lt;/a&gt;
 
 ##### Tags
 -  Manage tags 
 - Tag Cloud
 
-&lt;a href=&#34;https://framagit.org/foxmask/shaarpy/-/raw/main/docs/tags_list.png&#34;&gt;&lt;img src=&#34;https://framagit.org/foxmask/shaarpy/-/raw/main/docs/tags_list.png&#34; alt=&#34;tag cloud&#34; width=&#34;400&#34;/&gt;&lt;/a&gt;
+&lt;a href=&#34;https://git.afpy.org/foxmask/shaarpy/raw/main/docs/tags_list.png&#34;&gt;&lt;img src=&#34;https://framagit.org/foxmask/shaarpy/-/raw/main/docs/tags_list.png&#34; alt=&#34;tag cloud&#34; width=&#34;400&#34;/&gt;&lt;/a&gt;
 
 ##### Daily links history
 - See the links of the day and navigate throw the calendar to go back to your old links
 
-&lt;a href=&#34;https://framagit.org/foxmask/shaarpy/-/raw/main/docs/daily.png&#34;&gt;&lt;img src=&#34;https://framagit.org/foxmask/shaarpy/-/raw/main/docs/daily.png&#34; alt=&#34;daily links&#34; width=&#34;400&#34;/&gt;&lt;/a&gt;
+&lt;a href=&#34;https://git.afpy.org/foxmask/shaarpy/raw/main/docs/daily.png&#34;&gt;&lt;img src=&#34;https://framagit.org/foxmask/shaarpy/-/raw/main/docs/daily.png&#34; alt=&#34;daily links&#34; width=&#34;400&#34;/&gt;&lt;/a&gt;
 
 ##### Tools
 - for each link added, a markdown file can be create in a folder that will be sync on your mobile with the help of &#34;[syncthing](https://syncthing.net/)&#34;
@@ -81,7 +77,7 @@ source bin/activate
 *install the project*
 
 ```
-git clone https://framagit.org/foxmask/shaarpy
+git clone https://git.afpy.org/foxmask/shaarpy
 cd shaarpy
 ```
 

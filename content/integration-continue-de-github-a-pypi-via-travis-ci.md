@@ -27,7 +27,7 @@ deploy:
   password:
     secure: le_mot_de_passe_crypte
   on:
-    tags: true
+    Tags: true
 
 ```
 
@@ -38,7 +38,7 @@ ici je ne vous ai mis que la tâche `deploy` chargée de s'occuper de l'installa
 
 
 
-2) sur Travis-CI, détection de l'application d'un tag sur le projet, via le déclencheur `on: tags: true`, et enchaînement de la tâche `deploy`
+2) sur Travis-CI, détection de l'application d'un tag sur le projet, via le déclencheur `on: Tags: true`, et enchaînement de la tâche `deploy`
 
 ![deployment sur pypi](/static/2016/03/django_th_uploaded_on_pypi.png)
 

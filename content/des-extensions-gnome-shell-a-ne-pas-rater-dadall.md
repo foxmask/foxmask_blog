@@ -1,9 +1,8 @@
 Title: Des extensions GNOME Shell à ne pas rater - dadall
 Date: 2022-05-06 11:28:03.369344+00:00
 Author: FoxMaSk 
-
-tags: gnome
-
+Category: link
+Tags: gnome
 Status: published
 
 
@@ -13,10 +12,6 @@ Status: published
 # Des extensions GNOME Shell à ne pas rater - dadall
 
 [Des extensions GNOME Shell à ne pas rater - dadall](https://www.dadall.info/article763/des-extensions-gnome-shell-a-ne-pas-rater)
-
-&lt;div&gt;
-
-\
 
 le meilleur environnement graphique pour GNU/Linux qu\&#39;est GNOME Shell
 peut encore s\&#39;améliorer avec des extensions toutes bêtes qu\&#39;il est
@@ -30,7 +25,4 @@ foison, voici les miennes que j\&#39;aime tout plein.
 OpenWeather
 -----------
 
-\
 [OpenWe...](https://extensions.gnome.org/extension/750/openweather/ &#34;OpenWeather&#34;)
-
-&lt;/div&gt;

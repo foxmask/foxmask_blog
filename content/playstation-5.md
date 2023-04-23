@@ -1,9 +1,8 @@
 Title: PlayStation 5
 Date: 2022-01-27 13:58:23.351593+00:00
 Author: FoxMaSk 
-
-tags: PlayStation
-
+Category: link
+Tags: PlayStation
 Status: published
 
 

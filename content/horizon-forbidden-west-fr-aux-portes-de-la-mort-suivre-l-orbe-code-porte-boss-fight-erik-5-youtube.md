@@ -1,9 +1,8 @@
 Title: HORIZON FORBIDDEN WEST FR - AUX PORTES DE LA MORT - SUIVRE L&#39;ORBE - CODE PORTE - BOSS FIGHT ERIK #5 - youtube
 Date: 2022-03-01 11:29:37.342945+00:00
 Author: FoxMaSk 
-
-tags: games,HorizonForbiddenWest,Tips
-
+Category: link
+Tags: games, HorizonForbiddenWest, Tips
 Status: published
 
 

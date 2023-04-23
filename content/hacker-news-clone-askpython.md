@@ -1,9 +1,8 @@
 Title: Hacker News Clone - askpython
 Date: 2022-02-21 09:33:08.967139+00:00
 Author: FoxMaSk 
-
-tags: Django,HackerNews
-
+Category: link
+Tags: Django, HackerNews
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Hacker News Clone - askpython](https://www.askpython.com/django/hacker-news-clone-django)
 
-&lt;div&gt;
+
 
 Hello Guys! In this tutorial, we will build a **Full Web App** --
 similar to the Hacker News website using the [Django Web
@@ -30,4 +29,3 @@ on Computer Science and Entrepreneurship.
 
 The website defines itself as a platform where on...
 
-&lt;/div&gt;

@@ -1,13 +1,9 @@
 Title: KBS s’exprime sur les nouvelles mesures contre la maltraitance des animaux suite à la mort du cheval sur le tournage du drama “The King of Tears, Lee Bang-won” - k-gen
 Date: 2022-01-26 19:02:33.636363+00:00
 Author: FoxMaSk 
-
-tags: kbs,Corée
-
+Tags: kbs, Corée
+Category: link
 Status: published
-
-
-
 
 
 # KBS s’exprime sur les nouvelles mesures contre la maltraitance des animaux suite à la mort du cheval sur le tournage du drama “The King of Tears, Lee Bang-won” - k-gen

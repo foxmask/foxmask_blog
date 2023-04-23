@@ -1,12 +1,9 @@
 Title: the daily numbers game - nerdlegame
 Date: 2022-01-30 19:20:05.157913+00:00
 Author: FoxMaSk 
-
-tags: games
-
+Category: link
+Tags: games
 Status: published
-
-
 
 
 

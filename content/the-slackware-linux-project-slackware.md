@@ -1,20 +1,15 @@
 Title: The Slackware Linux Project - slackware
 Date: 2022-02-04 08:10:13.279211+00:00
 Author: FoxMaSk 
-
-tags: linux,distrib,slackware
-
+Category: link
+Tags: linux, distrib, slackware
 Status: published
-
-
-
-
 
 # The Slackware Linux Project - slackware
 
 [The Slackware Linux Project - slackware](http://www.slackware.com/)
 
-&lt;div&gt;
+
 
 Hey folks! It\&#39;s been a long time, but as usual we had to get everything
 just exactly perfect, and you just can\&#39;t rush that. We are very happy
@@ -23,4 +18,4 @@ There have been way too many changes to even begin to cover them here,
 but for our dedicated user base suffice to say that you\&#39;ll find things
 modern but also familiar. We\&#39;ve gone ...
 
-&lt;/div&gt;
+

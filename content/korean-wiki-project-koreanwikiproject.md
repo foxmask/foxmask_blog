@@ -1,9 +1,8 @@
 Title: Korean Wiki Project - koreanwikiproject
 Date: 2022-02-09 15:20:30.502975+00:00
 Author: FoxMaSk 
-
-tags: TTMIK,Corée,한국어
-
+Category: link
+Tags: TTMIK, Corée, 한국어
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Korean Wiki Project - koreanwikiproject](https://www.koreanwikiproject.com/wiki/TTMIK_Lessons)
 
-&lt;div&gt;
+
 
 From Korean Wiki Project
 
@@ -25,6 +24,3 @@ languages, see a typo or feel you can translate something more
 accurately, please do so. For help on editing and other useful
 information, see the FAQ below.
 
-If you are curren...
-
-&lt;/div&gt;

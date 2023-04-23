@@ -1,9 +1,8 @@
 Title: - kordle
 Date: 2022-03-03 07:30:05.949765+00:00
 Author: FoxMaSk 
-
-tags: 한국어
-
+Category: link
+Tags: 한국어
 Status: published
 
 

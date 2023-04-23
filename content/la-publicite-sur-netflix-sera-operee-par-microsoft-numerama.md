@@ -1,9 +1,8 @@
 Title: La publicité sur Netflix sera opérée par Microsoft - numerama
 Date: 2022-07-14 19:55:16.888732+00:00
 Author: FoxMaSk 
-
-tags: 한국,coucou,toto,씨
-
+Category: link
+Tags: 한국
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [La publicité sur Netflix sera opérée par Microsoft - numerama](https://www.numerama.com/pop-culture/1039324-la-publicite-sur-netflix-sera-operee-par-microsoft.html)
 
-&lt;div&gt;
+
 
 On le sait : Netflix va mettre de la publicité sur sa plateforme. Et
 c&#39;est Microsoft qui va s&#39;en charger.
@@ -27,4 +26,3 @@ changement de paradigme
 décrié](https://www.numerama.com/pop-culture/1017672-le-netflix-avec-des-pubs-sera-meilleur-que-la-tele-promet-netflix.html)
 de la plateforme de streaming, qui mise désormais sur la publicité...
 
-&lt;/div&gt;

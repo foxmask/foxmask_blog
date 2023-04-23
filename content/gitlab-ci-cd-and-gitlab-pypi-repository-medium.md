@@ -1,9 +1,8 @@
 Title: Gitlab-CI/CD and GitLab PyPi Repository - medium
 Date: 2022-02-28 09:10:04.204426+00:00
 Author: FoxMaSk 
-
-tags: gitlab,pypi
-
+Category: link
+Tags: gitlab, pypi
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Gitlab-CI/CD and GitLab PyPi Repository - medium](https://medium.com/maisonsdumonde/gitlab-ci-cd-and-gitlab-pypi-repository-4916a51d22eb)
 
-&lt;div&gt;
+
 
 Gitlab-CI/CD and GitLab PyPi Repository 
 =======================================
@@ -26,4 +25,3 @@ repositories: applications (API or data pipeline) and components
 components are private and we can&#39;t upload them on PyPi. Luckily, a few
 days ago, April 22nd, Gitlab ...
 
-&lt;/div&gt;

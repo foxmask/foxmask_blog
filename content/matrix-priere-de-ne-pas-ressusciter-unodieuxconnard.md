@@ -1,9 +1,8 @@
 Title: Matrix – Prière de ne pas ressusciter - unodieuxconnard
 Date: 2022-01-26 18:29:19.774133+00:00
 Author: FoxMaSk 
-
-tags: humour,odieuxconnard
-
+Tags: humour, odieuxconnard
+Category: link
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Matrix – Prière de ne pas ressusciter - unodieuxconnard](https://unodieuxconnard.com/2022/01/05/matrix-priere-de-ne-pas-ressusciter/)
 
-&lt;div&gt;
+
 
 --- Bande de petits sagouins, vous allez voir !
 
@@ -25,4 +24,3 @@ les cartouches de gros sel à sa ceinture. Il en fait tomber une en
 jurant, mais les deux suivantes viennent glisser dans les canons de son
 fusil...
 
-&lt;/div&gt;

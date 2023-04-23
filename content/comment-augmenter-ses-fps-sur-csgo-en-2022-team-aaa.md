@@ -1,9 +1,8 @@
 Title: Comment augmenter ses FPS sur CSGO en 2022 ? - team-aaa
 Date: 2022-01-26 18:27:56.049162+00:00
 Author: FoxMaSk 
-
-tags: csgo,steam
-
+Tags: csgo, steam
+Category: link
 Status: published
 
 
@@ -14,7 +13,6 @@ Status: published
 
 [Comment augmenter ses FPS sur CSGO en 2022 ? - team-aaa](https://www.team-aaa.com/fr/breve/augmenter-ses-fps-sur-csgo-en-2022_124035)
 
-&lt;div&gt;
 
 L\&#39;année vient de débuter et si parmi vos bonnes résolutions vous avez
 l\&#39;envie de monter en grade sur CSGO ou de franchir un palier en FACEIT
@@ -26,5 +24,3 @@ Optimiser ses FPS en 2022
 
 Les FPS dans les jeux vidéo et les options pour les augmenter, voilà un
 marronnier qui ...
-
-&lt;/div&gt;

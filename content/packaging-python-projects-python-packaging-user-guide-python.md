@@ -1,12 +1,9 @@
 Title: Packaging Python Projects — Python Packaging User Guide - python
 Date: 2022-02-01 20:09:00.507273+00:00
 Author: FoxMaSk 
-
-tags: python
-
+Tags: python
+Category: link
 Status: published
-
-
 
 
 
@@ -14,7 +11,7 @@ Status: published
 
 [Packaging Python Projects — Python Packaging User Guide - python](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 
-&lt;div&gt;
+
 
 Packaging Python Projects[¶](#packaging-python-projects &#34;Permalink to this headline&#34;)
 ==================================================================================================
@@ -31,4 +28,3 @@ the command and its output, then [open an
 issue](https://github.com/pypa/packaging-problems/issues/new?template=packaging_tutorial.yml&amp;title=Trouble+with+the+packaging+tutorial&amp;guide=https://packaging.python.org/tutorials/packaging-projects) on the
 [packaging-...](https://github.com/pypa/packaging-problems)
 
-&lt;/div&gt;

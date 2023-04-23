@@ -3,7 +3,8 @@ Date: 2017-03-08 00:00
 Author: foxmask
 Category: General
 Slug: journee-des-femmes-8mars-2017
-Status: Published
+Status: published
+
 Summary: En ce 8 mars, [journée internationale des Femmes](http://8mars.info/), j'ai laissé l'entièreté du blog, à des femmes que j'ai eu l'occasion de croiser, et qui m'ont fait l'honneur de me permettre de reproduire quelques uns des articles qui leur tenaient à coeur.
 
 En ce 8 mars, [journée internationale des Femmes](http://8mars.info/), à la suite d'une idée de [@kozlika](https://twitter.com/Kozlika/status/835076591457865728) qui me plu de suite, j'ai laissé la "tribune", l'entièreté du blog, à des femmes que j'ai eu l'occasion de croiser, et qui m'ont fait l'extrême plaisir et honneur de me permettre de reproduire quelques uns des articles qui leur tenaient à coeur.

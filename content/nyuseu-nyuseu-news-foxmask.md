@@ -1,9 +1,8 @@
 Title: Nyuseu .:. 뉴스 .:. News - foxmask
 Date: 2022-01-21 22:23:04+00:00
 Author: FoxMaSk 
-
-tags: python,project,opensource
-
+Category: link
+Tags: python, project, opensource
 Status: published
 
 

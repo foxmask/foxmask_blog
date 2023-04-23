@@ -1,9 +1,8 @@
 Title: Kdramas That Should Be Adapted Into Jdramas - mydramalist
 Date: 2022-01-29 12:42:49.933658+00:00
 Author: FoxMaSk 
-
-tags: Corée,Japon,clash
-
+Category: link
+Tags: Corée, Japon, clash
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Kdramas That Should Be Adapted Into Jdramas - mydramalist](https://mydramalist.com/article/kdramas-that-should-be-adapted-into-jdramas)
 
-&lt;div&gt;
+
 
 Japanese dramas usually have few episodes and are less draggy, so that
 you can even finish a Japanese drama in a day. Japanese dramas are known
@@ -30,4 +29,4 @@ Pretty**](https://mydramalist.com/15055-she-was-pretty),
 In this article is a list of Korean dramas that need to have a Japanese
 remake. The reasons for the original Ko...
 
-&lt;/div&gt;
+

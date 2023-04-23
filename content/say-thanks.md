@@ -2,7 +2,7 @@ title: Say Thanks
 date: 2016-11-26 16:00
 category: General
 slug: say-thanks
-status: Published
+Status: published
 
 
 > Thankfulness is the key to happiness  

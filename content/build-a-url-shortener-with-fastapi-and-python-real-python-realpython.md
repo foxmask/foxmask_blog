@@ -1,11 +1,9 @@
 Title: Build a URL Shortener With FastAPI and Python – Real Python - realpython
 Date: 2022-05-27 21:59:42.200192+00:00
 Author: FoxMaSk 
-
-tags: python
-
+Tags: python
 Status: published
-
+Category: link
 
 
 

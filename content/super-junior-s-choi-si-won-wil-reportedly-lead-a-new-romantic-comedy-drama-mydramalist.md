@@ -1,9 +1,8 @@
 Title: Super Junior&#39;s Choi Si Won wil reportedly lead a new romantic comedy drama! - mydramalist
 Date: 2022-01-29 12:53:32.043459+00:00
 Author: FoxMaSk 
-
-tags: Corée
-
+Category: link
+Tags: Corée
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Super Junior&#39;s Choi Si Won wil reportedly lead a new romantic comedy drama! - mydramalist](https://mydramalist.com/article/super-junior-s-choi-si-won-wil-reportedly-lead-a-new-romantic-comedy-drama)
 
-&lt;div&gt;
+
 
 ### Super Junior\&#39;s [Choi Si Won](https://mydramalist.com/people/388-choi-shi-won) will reportedly star in an upcoming drama titled \&#34;[Love That Will Freeze To Death](https://mydramalist.com/719759-love-that-will-freeze-to-death).\&#34;
 
@@ -28,4 +27,4 @@ reports. 
 
 \&#34;Love That Will Freeze To Death\&#34; is a romantic co...
 
-&lt;/div&gt;
+

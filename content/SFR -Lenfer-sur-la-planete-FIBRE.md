@@ -2,7 +2,7 @@ title: SFR  L'enfer sur la planete FIBRE
 date: 2023-01-22
 category: Techno
 slug: sfr-enfer-planete-fibre
-status: Published
+Status: published
 
 
 

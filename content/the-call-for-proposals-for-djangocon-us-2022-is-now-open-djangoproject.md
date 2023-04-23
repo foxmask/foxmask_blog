@@ -1,9 +1,8 @@
 Title: The Call for Proposals for DjangoCon US 2022 Is Now Open! - djangoproject
 Date: 2022-05-27 21:58:51.817254+00:00
 Author: FoxMaSk 
-
-tags: python,django
-
+Category: link
+Tags: python, django
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [The Call for Proposals for DjangoCon US 2022 Is Now Open! - djangoproject](https://www.djangoproject.com/weblog/2022/may/23/the-call-for-proposals-for-djangocon-us-2022-is-no/)
 
-&lt;div&gt;
+
 
 The Call for Proposals for DjangoCon US 2022 Is Now Open!
 ---------------------------------------------------------
@@ -29,4 +28,4 @@ submit your proposal.
 
 We invite you to submit your proposal no matter your ...
 
-&lt;/div&gt;
+

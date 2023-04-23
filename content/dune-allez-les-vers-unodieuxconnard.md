@@ -1,9 +1,8 @@
 Title: Dune, allez les vers - unodieuxconnard
 Date: 2022-01-26 18:30:23.686866+00:00
 Author: FoxMaSk 
-
-tags: humour,odieuxconnard
-
+Category: link
+Tags: humour, odieuxconnard
 Status: published
 
 
@@ -14,7 +13,6 @@ Status: published
 
 [Dune, allez les vers - unodieuxconnard](https://unodieuxconnard.com/2022/01/21/dune-allez-les-vers/)
 
-&lt;div&gt;
 
 Commençons par un rappel, c&#39;est de saison : il existe trois règles
 essentielles dans l&#39;univers des films adaptés de livres.
@@ -25,5 +23,3 @@ en s&#39;exclamant « Oui, mais ça, c&#39;est expliqué dans les romans !« 
 
 La seconde, c&#39;est que justement : s&#39;il faut aller lire le roman pour
 combler les...
-
-&lt;/div&gt;

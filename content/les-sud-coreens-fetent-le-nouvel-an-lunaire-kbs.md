@@ -1,9 +1,8 @@
 Title: Les sud-Coréens fêtent le Nouvel an lunaire - kbs
 Date: 2022-02-01 07:12:56.100745+00:00
 Author: FoxMaSk 
-
-tags: NouvelAn
-
+Category: link
+Tags: NouvelAn
 Status: published
 
 
@@ -14,18 +13,13 @@ Status: published
 
 [Les sud-Coréens fêtent le Nouvel an lunaire - kbs](http://world.kbs.co.kr/service/news_view.htm?lang=f&amp;Seq_Code=76763)
 
-&lt;div&gt;
 
-Photo : YONHAP News
-
-\
-\
 Qui dit cette fête traditionnelle dit embouteillages. Les chiffres sont
 éloquents. Selon les autorités routières, rien qu&#39;aujourd&#39;hui, les
 autoroutes et les voies menant à Séoul doivent être prises d&#39;assaut par
-pas moins de 450 000 automobiles.\
-\
+pas moins de 450 000 automobiles.
+
 Une autre source d&#39;inquiétude concerne la sécurité des routes qui
 peuvent être glissantes à cause du verglas et de la neige. San...
 
-&lt;/div&gt;
+

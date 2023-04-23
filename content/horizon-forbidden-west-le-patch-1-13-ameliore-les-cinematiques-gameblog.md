@@ -1,9 +1,8 @@
 Title: Horizon Forbidden West : le patch 1.13 améliore les cinématiques - gameblog
 Date: 2022-05-06 04:47:42.795245+00:00
 Author: FoxMaSk 
-
-tags: HorizonForbbidenWest
-
+Category: link
+Tags: HorizonForbbidenWest
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Horizon Forbidden West : le patch 1.13 améliore les cinématiques - gameblog](https://www.gameblog.fr/jeu-video/ed/news/horizon-forbidden-west-le-patch-1-13-est-la-et-il-ameliore-les-cinematiques-400615)
 
-&lt;div&gt;
+
 
 Horizon Forbidden West déploie sa mise à jour 1.13. Pas de grosse
 nouveauté au programme mais des améliorations visuelles, notamment au
@@ -26,4 +25,3 @@ West](https://www.gameblog.fr/jeu-video/jeux/tests/test-horizon-forbidden-west-u
 le studio néerlandais ne ménage pas ses efforts pour corriger les
 différents bugs repérés par les joueurs. Après avoir rendu ...
 
-&lt;/div&gt;

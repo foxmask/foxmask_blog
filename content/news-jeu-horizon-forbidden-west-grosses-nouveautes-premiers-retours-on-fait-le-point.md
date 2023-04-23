@@ -1,12 +1,9 @@
 Title: News jeu Horizon Forbidden West : Grosses nouveautés, premiers retours... On fait le point
 Date: 2022-02-12 18:57:15.134906+00:00
 Author: FoxMaSk 
-
-tags: HorizonForbiddenWest
-
+Category: link
+Tags: HorizonForbiddenWest, games
 Status: published
-
-
 
 
 

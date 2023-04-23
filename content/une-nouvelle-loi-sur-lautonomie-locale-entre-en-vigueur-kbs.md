@@ -1,9 +1,8 @@
 Title: Une nouvelle loi sur l’autonomie locale entre en vigueur - kbs
 Date: 2022-01-19 19:10:28+00:00
 Author: FoxMaSk 
-
-tags: corée
-
+Tags: corée
+Category: link
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Une nouvelle loi sur l’autonomie locale entre en vigueur - kbs](http://world.kbs.co.kr/service/contents_view.htm?lang=f&amp;menu_cate=issues&amp;id=&amp;board_seq=417011&amp;page=0&amp;board_code=news_hotissue)
 
-&lt;div&gt;
+
 
 ⓒKBS News
 
@@ -29,4 +28,3 @@ a commencé à s&#39;appliquer un an après avoir été promulgué le 12 janvier
 
 Cette loi stipule le droit de...
 
-&lt;/div&gt;

@@ -1,9 +1,8 @@
 Title: Khrys’presso du lundi 7 février 2022 - framablog
 Date: 2022-02-07 12:20:52.103828+00:00
 Author: FoxMaSk 
-
-tags: news,tech
-
+Category: link
+Tags: news, tech
 Status: published
 
 
@@ -14,7 +13,6 @@ Status: published
 
 [Khrys’presso du lundi 7 février 2022 - framablog](https://framablog.org/2022/02/07/khryspresso-du-lundi-7-fevrier-2022/)
 
-&lt;div&gt;
 
 Comme chaque lundi, un coup d&#39;œil dans le rétroviseur pour découvrir les
 informations que vous avez peut-être ratées la semaine dernière.
@@ -36,4 +34,3 @@ Spécial France
 Spécial médias et po... 
 -----------------------
 
-&lt;/div&gt;

@@ -1,9 +1,8 @@
 Title: Netflix&#39;s CEO officially confirms that &#34;Squid Game&#34; will have a second season - mydramalist
 Date: 2022-01-22 10:37:21.334150+00:00
 Author: FoxMaSk 
-
-tags: SquidGame,Corée
-
+Category: link
+Tags: SquidGame, Corée
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Netflix&#39;s CEO officially confirms that &#34;Squid Game&#34; will have a second season - mydramalist](https://mydramalist.com/article/netflix-s-ceo-officially-confirms-that-squid-game-will-have-a-second-season)
 
-&lt;div&gt;
+
 
 ### [Squid Game Season 2](https://mydramalist.com/714529-squid-game-season-2) is in the works!
 
@@ -29,4 +28,4 @@ On January 21st, it was officially confirmed that there will be a
 their 2021 earnings interview and CEO and chief content officer Ted
 Sarandos was asked about the globa...
 
-&lt;/div&gt;
+

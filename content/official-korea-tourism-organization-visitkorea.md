@@ -1,9 +1,8 @@
 Title: Official Korea Tourism Organization - visitkorea
 Date: 2022-05-13 07:10:49.296549+00:00
 Author: FoxMaSk 
-
-tags: 한국
-
+Category: link
+Tags: 한국
 Status: published
 
 

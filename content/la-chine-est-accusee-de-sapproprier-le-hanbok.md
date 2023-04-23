@@ -1,9 +1,8 @@
 Title: La Chine est accusée de s’approprier le hanbok
 Date: 2022-02-15 07:53:32.681353+00:00
 Author: FoxMaSk 
-
-tags: Corée,tradition
-
+Tags: Corée, tradition
+Category: link
 Status: published
 
 

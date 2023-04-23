@@ -1,9 +1,7 @@
 Title: Operating Systems - fosdem
 Date: 2022-02-05 17:33:33.451104+00:00
 Author: FoxMaSk 
-
-tags: ubuntu,fosdem
-
+Tags: ubuntu, fosdem
 Status: published
 
 
@@ -14,7 +12,6 @@ Status: published
 
 [Operating Systems - fosdem](https://stands.fosdem.org/stands/ubuntu/)
 
-&lt;div&gt;
 
 ### Live events
 
@@ -46,5 +43,3 @@ download\_for\_offline
     Gamebuntu
 
     Transform an Ubuntu install into a complete game-...
-
-&lt;/div&gt;

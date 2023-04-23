@@ -1,9 +1,8 @@
 Title: How to Install Firefox as a .Deb on Ubuntu 22.04 (Not a Snap) - omgubuntu
 Date: 2022-04-25 13:26:14.057482+00:00
 Author: FoxMaSk 
-
-tags: Firefox,snap,ubuntu
-
+Tags: Firefox, snap, ubuntu
+Category: link
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [How to Install Firefox as a .Deb on Ubuntu 22.04 (Not a Snap) - omgubuntu](https://www.omgubuntu.co.uk/2022/04/how-to-install-firefox-deb-apt-ubuntu-22-04)
 
-&lt;div&gt;
+
 
 **In this guide I detail how to install Mozilla Firefox as a .deb
 package on [Ubuntu 22.04
@@ -27,4 +26,4 @@ If you run `apt install firefox` on Ubuntu 22.04 it won&#39;t install a .deb
 version as before, but instead fetch a transitional package that
 insta...
 
-&lt;/div&gt;
+

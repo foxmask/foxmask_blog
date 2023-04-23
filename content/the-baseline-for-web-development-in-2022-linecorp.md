@@ -1,9 +1,8 @@
 Title: The baseline for web development in 2022 - linecorp
 Date: 2022-01-28 07:04:27.703362+00:00
 Author: FoxMaSk 
-
-tags: browser
-
+Category: link
+Tags: browser
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [The baseline for web development in 2022 - linecorp](https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/)
 
-&lt;div&gt;
+
 
 This post is also available in the following language. Japanese
 
@@ -24,4 +23,4 @@ of Web Standards, and 4G in terms of networks. The web in general is not
 answering those needs properly, especially in terms of performance where
 factors such as an over-dependence on JavaScript a...
 
-&lt;/div&gt;
+

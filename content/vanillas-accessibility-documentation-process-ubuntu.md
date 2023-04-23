@@ -1,9 +1,8 @@
 Title: Vanilla’s accessibility documentation process - ubuntu
 Date: 2022-01-28 07:06:45.080669+00:00
 Author: FoxMaSk 
-
-tags: ubuntu,accessibility
-
+Tags: ubuntu, accessibility
+Category: link
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [Vanilla’s accessibility documentation process - ubuntu](https://ubuntu.com/blog/vanillas-accessibility-documentation-process)
 
-&lt;div&gt;
+
 
 Following on from our previous [post about accessibility by
 design](https://ubuntu.com/blog/accessible-by-design-how-we-are-designing-for-accessibility-at-canonical),
@@ -25,4 +24,4 @@ possible. We don&#39;t claim to be perfect, but accessibility is a real
 priority to us and we&#39;re continuously trying to improve. We&#39;ve recently
 started ...
 
-&lt;/div&gt;
+

@@ -1,12 +1,9 @@
 Title: bookwyrm-social/bookwyrm: Social reading and reviewing, decentralized with ActivityPub - github
 Date: 2022-02-03 16:50:40.110447+00:00
 Author: FoxMaSk 
-
-tags: activitypub
-
+Tags: activitypub
 Status: published
-
-
+Category: link
 
 
 
@@ -14,7 +11,6 @@ Status: published
 
 [bookwyrm-social/bookwyrm: Social reading and reviewing, decentralized with ActivityPub - github](https://github.com/bookwyrm-social/bookwyrm)
 
-&lt;div&gt;
 
 [](#bookwyrm)BookWyrm 
 =====================================================
@@ -35,4 +31,3 @@ an instance, you can check out the
 
 You can request an invite by entering yo...
 
-&lt;/div&gt;

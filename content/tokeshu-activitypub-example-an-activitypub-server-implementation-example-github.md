@@ -1,12 +1,9 @@
 Title: tOkeshu/activitypub-example: An ActivityPub server implementation example - github
 Date: 2022-02-03 16:50:11.722702+00:00
 Author: FoxMaSk 
-
-tags: activitypub
-
+Tags: activitypub
+Category: link
 Status: published
-
-
 
 
 
@@ -14,7 +11,7 @@ Status: published
 
 [tOkeshu/activitypub-example: An ActivityPub server implementation example - github](https://github.com/tOkeshu/activitypub-example)
 
-&lt;div&gt;
+
 
 [](#activitypub-example-server) ActivityPub example server 
 ===========================================================================================================
@@ -30,4 +27,3 @@ others.
 
 ...
 
-&lt;/div&gt;

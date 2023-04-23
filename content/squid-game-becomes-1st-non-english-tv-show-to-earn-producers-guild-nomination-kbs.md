@@ -1,9 +1,8 @@
 Title: ‘Squid Game’ Becomes 1st Non-English TV Show to Earn Producers Guild Nomination - kbs
 Date: 2022-01-28 09:16:46.560715+00:00
 Author: FoxMaSk 
-
-tags: SquidGame
-
+Category: link
+Tags: SquidGame
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [‘Squid Game’ Becomes 1st Non-English TV Show to Earn Producers Guild Nomination - kbs](http://world.kbs.co.kr/service/news_view.htm?lang=e&amp;Seq_Code=167289)
 
-&lt;div&gt;
+
 
 Photo : YONHAP News
 
@@ -29,4 +28,3 @@ and \&#34;Succession.\&#34; \
 Established in 1990, the Producers Guild Awards aim to honor the
 visionaries who pro...
 
-&lt;/div&gt;

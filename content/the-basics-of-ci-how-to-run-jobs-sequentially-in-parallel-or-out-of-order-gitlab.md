@@ -1,9 +1,8 @@
 Title: The basics of CI: How to run jobs sequentially, in parallel, or out of order - gitlab
 Date: 2022-01-30 07:23:25.732744+00:00
 Author: FoxMaSk 
-
-tags: gitlab
-
+Category: link
+Tags: gitlab
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [The basics of CI: How to run jobs sequentially, in parallel, or out of order - gitlab](https://about.gitlab.com/blog/2020/12/10/basics-of-gitlab-ci-updated/)
 
-&lt;div&gt;
+
 
 Note: This is an updated version of a previously published blog post,
 now including [Directed Acyclic
@@ -30,4 +29,3 @@ why it\&#39;s needed.
 Imagine that you work on a project, where all the code consists of two
 text files. Moreover, it is ...
 
-&lt;/div&gt;

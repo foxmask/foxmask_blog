@@ -1,13 +1,9 @@
 Title: Ce blog reproduit des recettes des plats vus dans le drama coréens
 Date: 2022-02-05 16:44:15.677685+00:00
 Author: FoxMaSk 
-
-tags: food,korea,corée,miamiam,한국
-
+Tags: food, korea, corée, miamiam, 한국
 Status: published
-
-
-
+Category: link
 
 
 # Ce blog reproduit des recettes des plats vus dans le drama coréens

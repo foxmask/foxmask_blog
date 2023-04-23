@@ -1,9 +1,8 @@
 Title: Des news ? Mais Allo !
 Date: 2022-01-02 17:00:00+00:00
 Author: FoxMaSk 
-
-tags: python
-
+Tags: python
+Category: link
 Status: published
 
 

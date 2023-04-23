@@ -1,9 +1,8 @@
 Title: HTTPX - python-httpx
 Date: 2022-01-20 12:52:50.695175+00:00
 Author: FoxMaSk 
-
-tags: python
-
+Category: link
+Tags: python
 Status: published
 
 
@@ -14,7 +13,7 @@ Status: published
 
 [HTTPX - python-httpx](https://www.python-httpx.org/)
 
-&lt;div&gt;
+
 
 HTTPX 
 =====
@@ -37,4 +36,3 @@ The 0.21 release includes some improvements to the integrated
 command-line client. This latest version integrates against a
 re-designed version of `httpcore`. Bot...
 
-&lt;/div&gt;
