@@ -19,7 +19,7 @@ Now that you’ve signed up for ChatGPT, you probably want to give it a spin! Bu
 >-   **Overreliance:** Leaning too heavily on ChatGPT for answers can hinder your own learning. You build brain paths by thinking, struggling, checking your understanding, and memorizing information.
 >-   **Accuracy:** ChatGPT’s responses may often be inaccurate or irrelevant. You need to fact-check all of its answers! Otherwise, you might learn wrong concepts and bad practices.
 
-https://realpython.com/chatgpt-coding-mentor-python/
+[https://realpython.com/chatgpt-coding-mentor-python/](https://realpython.com/chatgpt-coding-mentor-python/)
 
 Un petit passage sur le [discord de l'afpy](https://www.afpy.org/discord) pour demander un coup de main (sans en être gêné) devrait largement vous aider  
 
@@ -54,7 +54,7 @@ de permettre de créer un object si et seulement si, l'utilisateur est connecté
 Vous verrez dans les regles d'utilisations des mixins, qu'il faut toujours les mettre avant la View. 
 Le mixin `MySoftwareVersionMixin` pourrait servir à peupler le context d'une page (dans (`get_context_data` de la View) pour afficher la version de son soft dans un pied de page for example
 
-Avec https://ccbv.co.uk/ et son petit frere pour Django Rest Framework https://www.cdrf.co/ , vous voilà pourvus
+Avec [https://ccbv.co.uk/](https://ccbv.co.uk/) et son petit frere pour Django Rest Framework [https://www.cdrf.co/](https://www.cdrf.co/) , vous voilà pourvus
 
 
 # Django 5 - Resultat des elections du conseil de pilotage
@@ -71,7 +71,7 @@ Avec https://ccbv.co.uk/ et son petit frere pour Django Rest Framework https://w
 
 Lachez les autres site de "copier/coller de code" pour celui de l'afpy :D
 
-https://p.afpy.org/
+[https://p.afpy.org/](https://p.afpy.org/)
 
 
 # HTTPX : requests en meuh !
