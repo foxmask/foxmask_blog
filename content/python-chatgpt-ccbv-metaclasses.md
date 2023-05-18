@@ -1,5 +1,5 @@
 Title: Python ChatGPT, CCBV, Metaclasses
-Date: 2023-06-18 17:00
+Date: 2023-05-18 17:00
 Author: foxmask
 Category: Techno
 Tags: chatgpt, python, cbv, metaclasses, django
