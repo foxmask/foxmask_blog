@@ -6,7 +6,7 @@ AUTHOR = 'FoxMaSk'
 SITENAME = 'Le Free de la Passion'
 SITESUBTITLE = 'La passion de la liberté'
 
-SITEURL = 'https://www.foxmask.org'
+SITEURL = 'https://foxmask.github.io'
 TIMEZONE = 'Europe/Paris'
 
 THEME = '/home/foxmask/Projects/foxmask.net/pelican-themes/pelican-bootstrap3/'
