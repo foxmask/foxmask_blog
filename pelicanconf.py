@@ -5,11 +5,11 @@ from __future__ import unicode_literals
 AUTHOR = 'FoxMaSk'
 SITENAME = 'Le Free de la Passion'
 SITESUBTITLE = 'La passion de la liberté'
-SITELOGO='http://localhost:8000/static/cactus.png'
+SITELOGO='https://foxmask.github.io/static/cactus.png'
 DEFAULT_METADATA = {"Le Free de la Passion": "La passion de la liberté"}
 
 # SITEURL = 'https://foxmask.github.io'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'https://foxmask.github.io'
 TIMEZONE = 'Europe/Paris'
 
 THEME = '/home/foxmask/Projects/foxmask.net/pelican-themes/Flex/'
