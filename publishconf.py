@@ -12,7 +12,7 @@ from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 #SITEURL = 'https://foxmask.org'
-SITEURL = 'https://foxmask.github.io'
+SITEURL = 'https://foxmask.eu.org'
 #SITEURL = 'http://localhost:8000'
 RELATIVE_URLS = False
 

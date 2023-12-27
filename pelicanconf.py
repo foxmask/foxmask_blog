@@ -5,14 +5,14 @@ from __future__ import unicode_literals
 AUTHOR = 'FoxMaSk'
 SITENAME = 'Le Free de la Passion'
 SITESUBTITLE = 'La passion de la liberté'
-SITELOGO='https://foxmask.github.io/static/cactus.png'
+SITELOGO='https://foxmask.eu.org/static/cactus.png'
 DEFAULT_METADATA = {"Le Free de la Passion": "La passion de la liberté"}
 
 # SITEURL = 'https://foxmask.github.io'
-SITEURL = 'https://foxmask.github.io'
+SITEURL = 'https://foxmask.eu.org'
 TIMEZONE = 'Europe/Paris'
 
-THEME = '/home/foxmask/Projects/foxmask.net/pelican-themes/Flex/'
+THEME = '/home/foxmask/Projects/foxmask.eu.org/foxmask_blog/Flex/'
 
 
 PATH = 'content'
