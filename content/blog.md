@@ -2,11 +2,12 @@ Title: About
 Date: 2023-11-23 22:00:00
 Slug: a-propos
 Author: FoxMaSk
+Status: published
 
 
 ## Snake charmer
 
-An OpenSource dev since 1998 and in Python since 2012 ([some of those projects](https://git.afpy.org))
+An OpenSource dev since 1998 and in Python since 2012 ([some of those projects](https://github.com/foxmask))
 
 ### The projects I use the most
 
