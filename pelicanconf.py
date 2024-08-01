@@ -123,7 +123,7 @@ MARKDOWN = {
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
-        'markdown.extensions.tables':{},
+        'markdown.extensions.tables': {},
     },
     'output_format': 'html5',
 }
@@ -137,11 +137,5 @@ CC_LICENCE = {
         "version": "2.0",
         "slug": "wtfpl"
         }
-
-META = [
-        {
-        "name": "http-equiv", "name_value": "Content-Security-Policy", "content": "default-src 'self'"
-        },
-]
 
 USE_GOOGLE_FONTS = False
