@@ -77,10 +77,17 @@ DEFAULT_CATEGORY = 'Main'
 #        ('Centre Culturel Coréen', 'https://www.coree-culture.org/?lang=fr'),
 # )
 
+FEDIVERSES = (
+        "@foxmask@framapiaf.org",
+        "@foxmask@bdx.town",
+        "@foxmask@apobangpo.space"
+)
+
 SOCIAL = (
-        ("Framapiaf - Mastodon Fr", "https://framapiaf.org/"),
-        ("BdxTown - Akkoma Fr", "https://bdx.town/"),
-        ("Planet Moe - Mastodon Kr", "https://planet.moe"),
+        ("mastodon", "https://framapiaf.org/@foxmask"),
+        ("mastodon", "https://bdx.town/@foxmask"),
+        ("mastodon", "https://planet.moe/@foxmask"),
+        ("mastodon", "https://apobangpo.space/@foxmask"),
 )
 
 # FREE_PROJECT = True
